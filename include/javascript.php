@@ -1,9 +1,9 @@
 <a id="scrollUp" title="Scroll to top"><i class="fa fa-chevron-up"></i></a>
 
-    <script type='text/javascript' src='/js/jquery.js'></script>
-    <script type='text/javascript' src='/js/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='/revslider/rs-plugin/js/jquery.themepunch.tools.min.js'></script>
-    <script type='text/javascript' src='/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js'></script>
+    <script type='text/javascript' src='./js/jquery.js'></script>
+    <script type='text/javascript' src='./js/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='./revslider/rs-plugin/js/jquery.themepunch.tools.min.js'></script>
+    <script type='text/javascript' src='./revslider/rs-plugin/js/jquery.themepunch.revolution.min.js'></script>
 
     <script type="text/javascript">
         /******************************************
@@ -89,16 +89,16 @@
     </script>
     
 
-    <script type='text/javascript' src='/js/themewaves.js'></script>
-    <script type='text/javascript' src='/js/waves-script.js'></script>
-    <script type='text/javascript' src='/js/contact-form.js'></script>
+    <script type='text/javascript' src='./js/themewaves.js'></script>
+    <script type='text/javascript' src='./js/waves-script.js'></script>
+    <script type='text/javascript' src='./js/contact-form.js'></script>
 
     <!--<script type='text/javascript' src='/js/Chart.min.js'></script>
     <script type='text/javascript' src='/js/pace.min.js'></script>-->
     
     
     
-    <script type='text/javascript' src='/js/smoothscroll.js'></script>
+    <script type='text/javascript' src='./js/smoothscroll.js'></script>
 
     <!--
     <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js'></script>
@@ -110,4 +110,4 @@
     <script type='text/javascript' src='/js/jquery.isotope.min.js'></script>
     <script type='text/javascript' src='/js/jquery.event.move.js'></script>
     <script type='text/javascript' src='/js/jquery.easy-pie-chart.js'></script>-->
-    <script type='text/javascript' src='/js/scripts.js'></script>
+    <script type='text/javascript' src='./js/scripts.js'></script>

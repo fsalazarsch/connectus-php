@@ -8,7 +8,7 @@
 
             <div class="col-md-4 center">
                 <aside class="widget flickr_widget" id="contactinfo-2">
-                <div id="FooterLogo"><img src="/img/logo-blank.png" /></div>
+                <div id="FooterLogo"><img src="./img/logo-blank.png" /></div>
                 <div id="FooterMn">
                     <a href="sms.html">sms</a> | <a href="email.html">e-mail</a> | ivr | whatsapp
                 </div>
@@ -18,7 +18,7 @@
 
             <div class="col-md-4 center">
                 <aside class="widget flickr_widget" id="contactinfo-2">
-                <div id="FooterLogo2"><img src="/image/subtel-logo.jpg" /></div>
+                <div id="FooterLogo2"><img src="./image/subtel-logo.jpg" /></div>
                 </aside>
             </div>
 

@@ -51,8 +51,8 @@ $url = new Url(HTTP_SERVER, $config->get('config_secure') ? HTTPS_SERVER : HTTP_
 $registry->set('url', $url);
 
 // Log
-$log = new Log($config->get('config_error_filename'));
-$registry->set('log', $log);
+//$log = new Log($config->get('config_error_filename'));
+//$registry->set('log', $log);
 
 function error_handler($errno, $errstr, $errfile, $errline) {
 	global $log, $config;
@@ -79,7 +79,7 @@ function error_handler($errno, $errstr, $errfile, $errline) {
 			$error = 'Unknown';
 			break;
 	}
-
+/*
 	if ($config->get('config_error_display')) {
 		echo '<b>' . $error . '</b>: ' . $errstr . ' in <b>' . $errfile . '</b> on line <b>' . $errline . '</b>';
 	}
@@ -87,7 +87,7 @@ function error_handler($errno, $errstr, $errfile, $errline) {
 	if ($config->get('config_error_log')) {
 		$log->write('PHP ' . $error . ':  ' . $errstr . ' in ' . $errfile . ' on line ' . $errline);
 	}
-
+*/
 	return true;
 }
 

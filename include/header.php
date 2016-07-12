@@ -15,7 +15,7 @@
                 <div class="tw-top-widget right">
                     <span class="top-widget-title">
                         <div id="BotAccount">
-                            <a href="/registro" hreflang="es" class="AccountLink">crea tu cuenta gratuita</a>
+                            <a href="./registro" hreflang="es" class="AccountLink">crea tu cuenta gratuita</a>
                         </div>
                     </span>
                 </div>
@@ -23,7 +23,7 @@
                 <div class="tw-top-widget right" id="wysija-2">
                     <span class="top-widget-title">
                         <div id="UserLog">
-                            <a href="http://connecta.connectus.cl" hreflang="es"  target="_blank">Ingreso Usuarios</a>
+                            <a href="./admin" hreflang="es"  target="_blank">Ingreso Usuarios</a>
                         </div>
                     </span>
                 </div>
@@ -42,7 +42,7 @@
             <div class="row header">
                 <div class="col-md-3">
                     <div class="tw-logo">
-                        <a class="logo" href="/" hreflang="es" ><img class="logo-img" src="/img/logo.png" title="Connectus"/></a>
+                        <a class="logo" href="/" hreflang="es" ><img class="logo-img" src="./img/logo.png" title="Connectus"/></a>
                     </div>
                 </div>
                 <div class="col-md-9">

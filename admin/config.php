@@ -1,33 +1,33 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://connectus.cl/admin/');
-define('HTTP_CATALOG', 'http://connectus.cl/');
+define('HTTP_SERVER', '../admin/');
+define('HTTP_CATALOG', '../');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://connectus.cl/admin/');
-define('HTTPS_CATALOG', 'http://connectus.cl/');
+define('HTTPS_SERVER', '../admin/');
+define('HTTPS_CATALOG', '../');
 
 // DIR
-define('DIR_APPLICATION', '/home/connectus/public_html/admin/');
-define('DIR_SYSTEM', '/home/connectus/public_html/system/');
-define('DIR_LANGUAGE', '/home/connectus/public_html/admin/language/');
-define('DIR_TEMPLATE', '/home/connectus/public_html/admin/view/template/');
-define('DIR_CONFIG', '/home/connectus/public_html/system/config/');
-define('DIR_IMAGE', '/home/connectus/public_html/image/');
-define('DIR_CACHE', '/home/connectus/public_html/system/cache/');
-define('DIR_DOWNLOAD', '/home/connectus/public_html/system/download/');
-define('DIR_UPLOAD', '/home/connectus/public_html/system/upload/');
-define('DIR_LOGS', '/home/connectus/public_html/system/logs/');
-define('DIR_MODIFICATION', '/home/connectus/public_html/system/modification/');
-define('DIR_CATALOG', '/home/connectus/public_html/catalog/');
+define('DIR_APPLICATION', '../admin/');
+define('DIR_SYSTEM', '../system/');
+define('DIR_LANGUAGE', '../admin/language/');
+define('DIR_TEMPLATE', '../admin/view/template/');
+define('DIR_CONFIG', '../system/config/');
+define('DIR_IMAGE', '../image/');
+define('DIR_CACHE', '../system/cache/');
+define('DIR_DOWNLOAD', '../system/download/');
+define('DIR_UPLOAD', '../system/upload/');
+define('DIR_LOGS', '../system/logs/');
+define('DIR_MODIFICATION', '../system/modification/');
+define('DIR_CATALOG', '../catalog/');
 
-define('DIR_DRAG_FILE', 'http://connectus.cl/system/download/mail/' );
-define('DIR_FILE', 'http://connectus.cl/system/download/Archivos_descargados/' );
+define('DIR_DRAG_FILE', '../system/download/mail/' );
+define('DIR_FILE', '../system/download/Archivos_descargados/' );
 // DIR
-define('DIR_FILE_ATTACHMENT', '/home/connectus/public_html/system/download/mail/' );
-define('DIR_CONNECTUS_LIBRARY', '/home/connectus/public_html/connectus/');
-define('DIR_APPLICATION_ADIM', '/home/connectus/public_html/admin/');
-define('DIR_LINK', '/home/connectus/public_html/');
+define('DIR_FILE_ATTACHMENT', '../system/download/mail/' );
+define('DIR_CONNECTUS_LIBRARY', '../connectus/');
+define('DIR_APPLICATION_ADIM', '../admin/');
+define('DIR_LINK', '../');
 
 // DB mpdo
 define('DB_DRIVER', 'mpdo');
