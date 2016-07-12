@@ -1,0 +1,7 @@
+[11-Jul-2016 21:20:58 America/Santiago] PHP Notice:  Constant DB_DRIVER_CONNECTUS already defined in /home/connectus/public_html/config.php on line 41
+[11-Jul-2016 21:20:58 America/Santiago] PHP Notice:  Constant DB_HOSTNAME_CONNECTUS already defined in /home/connectus/public_html/config.php on line 42
+[11-Jul-2016 21:20:58 America/Santiago] PHP Notice:  Constant DB_USERNAME_CONNECTUS already defined in /home/connectus/public_html/config.php on line 43
+[11-Jul-2016 21:20:58 America/Santiago] PHP Notice:  Constant DB_PASSWORD_CONNECTUS already defined in /home/connectus/public_html/config.php on line 44
+[11-Jul-2016 21:20:58 America/Santiago] PHP Notice:  Constant DB_DATABASE_CONNECTUS already defined in /home/connectus/public_html/config.php on line 45
+[11-Jul-2016 21:20:58 America/Santiago] PHP Notice:  Constant DB_PORT_CONNECTUS already defined in /home/connectus/public_html/config.php on line 46
+[11-Jul-2016 21:20:58 America/Santiago] PHP Notice:  Constant DB_PREFIX_CONNECTUS already defined in /home/connectus/public_html/config.php on line 47

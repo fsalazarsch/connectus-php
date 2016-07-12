@@ -1,0 +1,1005 @@
+[11-Sep-2015 09:19:03 America/Santiago] PHP Fatal error:  Call to undefined method ControllerContactosMisListas::getDatosContactosLista() in /home/connectus/public_html/admin/controller/contactos/mis_listas.php on line 377
+[14-Sep-2015 20:15:08 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 23
+[14-Sep-2015 20:15:08 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:23
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(23): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 23
+[14-Sep-2015 20:21:34 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 23
+[14-Sep-2015 20:21:34 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:23
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(23): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 23
+[14-Sep-2015 20:24:45 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 23
+[14-Sep-2015 20:24:45 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:23
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(23): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 23
+[14-Sep-2015 20:26:09 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:26:09 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:32:08 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:32:08 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:41:51 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:41:51 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:48:56 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:48:56 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:49:16 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[14-Sep-2015 20:49:16 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:36:04 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:36:04 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:52:18 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:52:18 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:53:06 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:53:06 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:53:27 America/Santiago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 22:53:27 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from '/home/connectus/public_html/connectus/server_teleco.xml' : Extra content at the end of the document
+ in /home/connectus/public_html/connectus/SmsController.php:21
+Stack trace:
+#0 /home/connectus/public_html/connectus/SmsController.php(21): SoapClient->SoapClient('/home/connectus...', Array)
+#1 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(220): SmsController->__construct()
+#2 [internal function]: ControllerSmsEnviarSms->send(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 21
+[15-Sep-2015 23:07:58 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:100
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(100): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'hla minfo', 'ni', 'connectusKey', 'ahora', '41', 'nik', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 100
+[15-Sep-2015 23:48:34 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:100
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(100): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'HOLA MUINDO ', 'NICKOLAS', 'connectusKey', 'ahora', '41', 'nikolas', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 100
+[15-Sep-2015 23:54:46 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:100
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(100): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'asd', 'sada', 'connectusKey', 'ahora', '41', 'dsc', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 100
+[16-Sep-2015 00:20:09 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:100
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(100): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'jhgjhg', 'kjkj', 'connectusKey', 'ahora', '41', 'nikoo', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 100
+[16-Sep-2015 00:41:40 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:101
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(101): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'mensaje de comp...', 'admin', 'connectusKey', 'ahora', '41', 'jahdjs', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 101
+[16-Sep-2015 01:01:49 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:101
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(101): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'agtjul', 'iui', 'connectusKey', 'ahora', '41', 'nik', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 101
+[16-Sep-2015 01:09:52 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:101
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(101): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'asda', 'sdsa', 'connectusKey', 'ahora', '41', 'jhad', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 101
+[16-Sep-2015 01:13:42 America/Santiago] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/connectus/public_html/connectus/SmsController.php:100
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'submitMsg', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(100): SoapClient->__soapCall('submitMsg', Array)
+#2 /home/connectus/public_html/admin/controller/sms/enviar_sms.php(245): SmsController->sendSms('82610778', 'ghjhj', 'niko', 'connectusKey', 'ahora', '41', 'niko', 0, '')
+#3 [internal function]: ControllerSmsEnviarSms->send(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/connectus/SmsController.php on line 100
+[21-Sep-2015 16:11:55 America/Santiago] PHP Fatal error:  Call to undefined method MandrillController::sql_center() in /home/connectus/public_html/connectus/MandrillController.php on line 368
+[21-Sep-2015 16:22:02 America/Santiago] PHP Fatal error:  Call to undefined method MandrillController::sql_center() in /home/connectus/public_html/connectus/MandrillController.php on line 368
+[21-Sep-2015 23:30:34 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[21-Sep-2015 23:30:42 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[21-Sep-2015 23:30:54 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[21-Sep-2015 23:44:24 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[21-Sep-2015 23:51:28 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:12:12 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:13:15 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:16:40 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:16:56 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:22:01 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:23:45 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:27:20 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:29:24 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:31:19 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 08:31:32 America/Santiago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/connectus/public_html/admin/model/sms/recibidos.php on line 76
+[22-Sep-2015 13:42:55 America/Santiago] PHP Fatal error:  Call to undefined function checkAndParseCellphoneNumber() in /home/connectus/public_html/connectus/SmsController.php on line 49
+[22-Sep-2015 13:47:01 America/Santiago] PHP Fatal error:  Call to undefined function checkAndParseCellphoneNumber() in /home/connectus/public_html/connectus/SmsController.php on line 49
+[24-Sep-2015 11:08:56 America/Santiago] PHP Fatal error:  Cannot redeclare SmsController::updateEnvio() in /home/connectus/public_html/connectus/SmsController.php on line 431
+[24-Sep-2015 11:10:13 America/Santiago] PHP Fatal error:  Cannot redeclare SmsController::updateEnvio() in /home/connectus/public_html/connectus/SmsController.php on line 433
+[24-Sep-2015 11:14:59 America/Santiago] PHP Fatal error:  Cannot redeclare SmsController::updateEnvio() in /home/connectus/public_html/connectus/SmsController.php on line 431
+[24-Sep-2015 11:17:46 America/Santiago] PHP Fatal error:  Cannot redeclare SmsController::updateEnvio() in /home/connectus/public_html/connectus/SmsController.php on line 433
+[24-Sep-2015 11:18:25 America/Santiago] PHP Fatal error:  Cannot redeclare SmsController::updateEnvio() in /home/connectus/public_html/connectus/SmsController.php on line 433
+[24-Sep-2015 11:22:11 America/Santiago] PHP Fatal error:  Cannot redeclare SmsController::updateEnvio() in /home/connectus/public_html/connectus/SmsController.php on line 441
+[24-Sep-2015 11:56:37 America/Santiago] PHP Parse error:  syntax error, unexpected '.' in /home/connectus/public_html/connectus/SmsController.php on line 449
+[24-Sep-2015 12:01:22 America/Santiago] PHP Fatal error:  Can't use method return value in write context in /home/connectus/public_html/connectus/SmsController.php on line 445
+[24-Sep-2015 12:02:53 America/Santiago] PHP Fatal error:  Can't use method return value in write context in /home/connectus/public_html/connectus/SmsController.php on line 445
+[24-Sep-2015 12:04:15 America/Santiago] PHP Fatal error:  Can't use method return value in write context in /home/connectus/public_html/connectus/SmsController.php on line 445
+[26-Sep-2015 01:07:30 America/Santiago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/connectus/public_html/admin/model/sms/envio.php on line 364
+[26-Sep-2015 01:07:46 America/Santiago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/connectus/public_html/admin/model/sms/envio.php on line 364
+[26-Sep-2015 14:13:33 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 269
+[26-Sep-2015 14:14:27 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 269
+[26-Sep-2015 14:49:19 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 206
+[26-Sep-2015 14:51:05 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 206
+[26-Sep-2015 15:01:41 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 206
+[26-Sep-2015 15:02:09 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 206
+[26-Sep-2015 17:25:30 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 206
+[26-Sep-2015 17:31:21 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 206
+[26-Sep-2015 17:32:34 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 206
+[26-Sep-2015 17:34:27 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 210
+[26-Sep-2015 17:59:02 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 210
+[26-Sep-2015 19:05:23 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 210
+[26-Sep-2015 19:07:45 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 212
+[26-Sep-2015 19:08:48 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 214
+[26-Sep-2015 19:15:30 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 213
+[26-Sep-2015 19:21:46 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/connectus/SmsController.php on line 214
+[26-Sep-2015 21:06:20 America/Santiago] PHP Fatal error:  Call to undefined method stdClass::fetchAll() in /home/connectus/public_html/admin/model/sms/numeracion.php on line 37
+[26-Sep-2015 21:06:29 America/Santiago] PHP Fatal error:  Call to undefined method stdClass::fetchAll() in /home/connectus/public_html/admin/model/sms/numeracion.php on line 37
+[26-Sep-2015 21:06:50 America/Santiago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/connectus/public_html/admin/model/sms/numeracion.php on line 37
+[14-Oct-2015 17:44:12 America/Santiago] PHP Parse error:  syntax error, unexpected '{' in /home/connectus/public_html/admin/controller/sms/estadisticas.php on line 191
+[14-Oct-2015 17:44:35 America/Santiago] PHP Parse error:  syntax error, unexpected '{' in /home/connectus/public_html/admin/controller/sms/estadisticas.php on line 191
+[14-Oct-2015 17:44:51 America/Santiago] PHP Parse error:  syntax error, unexpected '{' in /home/connectus/public_html/admin/controller/sms/estadisticas.php on line 191
+[14-Oct-2015 17:45:13 America/Santiago] PHP Parse error:  syntax error, unexpected '{' in /home/connectus/public_html/admin/controller/sms/estadisticas.php on line 191
+[14-Oct-2015 19:15:41 America/Santiago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/connectus/public_html/admin/controller/mailing/estadistica.php on line 194
+[14-Oct-2015 19:16:08 America/Santiago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/connectus/public_html/admin/controller/mailing/estadistica.php on line 194
+[15-Oct-2015 21:57:48 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 72 bytes) in /home/connectus/public_html/system/library/libreriaExcel/dompdf_0-6-0_beta3/include/cellmap.cls.php on line 432
+[16-Oct-2015 20:27:07 America/Santiago] PHP Fatal error:  Cannot use [] for reading in /home/connectus/public_html/connectus/SmsController.php on line 293
+[21-Oct-2015 10:04:51 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/admin/controller/contactos/preview_lista.php on line 217
+[21-Oct-2015 10:06:07 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/admin/controller/contactos/preview_lista.php on line 217
+[24-Oct-2015 04:01:40 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'connectu_connect'@'localhost' (using password: YES)' in /home/connectus/public_html/connectus/ConnectusController.php:32
+Stack trace:
+#0 /home/connectus/public_html/connectus/ConnectusController.php(32): PDO->__construct('mysql:host=loca...', 'connectu_connec...', 'cOnNectUs_05041...')
+#1 /home/connectus/public_html/admin/controller/mailing/lista_mail_rebotados.php(303): ConnectusController->__construct()
+#2 [internal function]: ControllerMailingListaMailRebotados->reenviar(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/ConnectusController.php on line 32
+[24-Oct-2015 04:06:51 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'connectu_connect'@'localhost' (using password: YES)' in /home/connectus/public_html/connectus/ConnectusController.php:32
+Stack trace:
+#0 /home/connectus/public_html/connectus/ConnectusController.php(32): PDO->__construct('mysql:host=loca...', 'connectu_connec...', 'cOnNectUs_05041...')
+#1 /home/connectus/public_html/admin/controller/mailing/lista_mail_rebotados.php(303): ConnectusController->__construct()
+#2 [internal function]: ControllerMailingListaMailRebotados->reenviar(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/connectus/ConnectusController.php on line 32
+[26-Oct-2015 15:45:39 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Bonos de Isapre...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Bonos de Isapre...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(209): FileManager->excel(Array, Array, 'Bonos de Isapre...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[26-Oct-2015 15:49:32 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 32 bytes) in /home/connectus/public_html/system/library/libreriaExcel/dompdf_0-6-0_beta3/include/style.cls.php on line 707
+[26-Oct-2015 15:52:50 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Invalid character found in sheet title' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:467
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Pases Regulares...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Pases Regulares...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(209): FileManager->excel(Array, Array, 'Pases Regulares...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 467
+[26-Oct-2015 15:55:52 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 64 bytes) in /home/connectus/public_html/system/library/libreriaExcel/dompdf_0-6-0_beta3/include/css_color.cls.php on line 170
+[26-Oct-2015 16:13:33 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Invalid character found in sheet title' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:467
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Pases Regulares...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Pases Regulares...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(209): FileManager->excel(Array, Array, 'Pases Regulares...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 467
+[26-Oct-2015 16:13:54 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Invalid character found in sheet title' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:467
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Pases Regulares...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Pases Regulares...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(209): FileManager->excel(Array, Array, 'Pases Regulares...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 467
+[26-Oct-2015 20:58:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Bonos de Isapre...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Bonos de Isapre...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(209): FileManager->excel(Array, Array, 'Bonos de Isapre...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[26-Oct-2015 21:02:33 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 72 bytes) in /home/connectus/public_html/system/library/libreriaExcel/dompdf_0-6-0_beta3/include/style.cls.php on line 1147
+[28-Oct-2015 19:50:36 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 28661465 bytes) in Unknown on line 0
+[30-Oct-2015 12:53:04 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 137948 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[02-Nov-2015 09:40:03 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 137948 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[02-Nov-2015 09:40:07 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 137948 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[03-Nov-2015 18:12:56 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 28661505 bytes) in Unknown on line 0
+[04-Nov-2015 05:02:46 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 137948 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[04-Nov-2015 05:03:05 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 137948 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[04-Nov-2015 15:06:20 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 247 bytes) in /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php on line 267
+[04-Nov-2015 16:43:55 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 36990041 bytes) in Unknown on line 0
+[09-Nov-2015 23:55:44 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 137948 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[17-Nov-2015 18:38:27 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[17-Nov-2015 18:38:35 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[26-Nov-2015 12:31:16 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[30-Nov-2015 11:27:53 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 4194304 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 870
+[30-Nov-2015 11:28:40 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 4194304 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 870
+[30-Nov-2015 11:29:23 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 4194304 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 870
+[30-Nov-2015 11:30:12 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 4194304 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 870
+[30-Nov-2015 11:33:22 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 4194304 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 870
+[30-Nov-2015 11:49:01 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 85 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 870
+[30-Nov-2015 11:49:20 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 85 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 870
+[15-Dec-2015 12:09:59 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 12:10:07 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 12:10:43 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 12:22:01 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 12:23:04 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 12:51:04 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 15:38:29 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 15:47:28 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 16:13:42 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 16:14:08 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 16:14:16 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 16:14:31 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 17:14:43 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 17:14:54 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 17:15:27 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 17:15:38 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 17:16:07 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 17:16:25 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 17:18:18 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 17:58:06 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:03:19 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:03:55 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(210): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:06:10 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(212): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:06:40 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(212): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:06:50 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(212): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:14:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(215): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:14:39 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(215): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:17:34 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(215): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 18:47:04 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Estado de Cuent...')
+#1 /home/connectus/public_html/system/library/FileManager.php(110): PHPExcel_Worksheet->setTitle('Estado de Cuent...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(215): FileManager->excel(Array, Array, 'Estado de Cuent...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[15-Dec-2015 19:59:38 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 19:59:45 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 19:59:59 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:00:08 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:01:32 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:01:47 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:25:45 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:32:41 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:33:05 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:33:15 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:36:44 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 20:37:47 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:08:18 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 185587 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:08:31 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:26:54 America/Santiago] PHP Notice:  Error: Could not make a database link ( SQLSTATE[HY000] [2002] No such file or directory). Error Code : 2002 <br /> in /home/connectus/public_html/system/library/db/mpdo.php on line 11
+[15-Dec-2015 21:26:58 America/Santiago] PHP Notice:  Error: Could not make a database link ( SQLSTATE[HY000] [2002] No such file or directory). Error Code : 2002 <br /> in /home/connectus/public_html/system/library/db/mpdo.php on line 11
+[15-Dec-2015 21:28:11 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:30:50 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:31:54 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:33:19 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:33:51 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:35:21 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:35:47 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[15-Dec-2015 21:37:47 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 171886 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:04:05 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Invalid character found in sheet title' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:467
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle(NULL)
+#1 /home/connectus/public_html/system/library/FileManager.php(128): PHPExcel_Worksheet->setTitle(NULL)
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(219): FileManager->excel(Array, Array, NULL, Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 467
+[18-Dec-2015 17:05:57 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Invalid character found in sheet title' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:467
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle(NULL)
+#1 /home/connectus/public_html/system/library/FileManager.php(128): PHPExcel_Worksheet->setTitle(NULL)
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(220): FileManager->excel(Array, Array, NULL, Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#8 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 467
+[18-Dec-2015 17:19:03 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:19:43 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:20:06 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Conoce una nuev...')
+#1 /home/connectus/public_html/system/library/FileManager.php(128): PHPExcel_Worksheet->setTitle('Conoce una nuev...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(221): FileManager->excel(Array, Array, 'Conoce una nuev...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[18-Dec-2015 17:20:14 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:22:22 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:24:24 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:26:42 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:28:05 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:34:37 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Te ayudamos a l...')
+#1 /home/connectus/public_html/system/library/FileManager.php(128): PHPExcel_Worksheet->setTitle('Te ayudamos a l...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(219): FileManager->excel(Array, Array, 'Te ayudamos a l...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[18-Dec-2015 17:34:51 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Te ayudamos a l...')
+#1 /home/connectus/public_html/system/library/FileManager.php(128): PHPExcel_Worksheet->setTitle('Te ayudamos a l...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(219): FileManager->excel(Array, Array, 'Te ayudamos a l...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[18-Dec-2015 17:38:20 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:41:00 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:41:24 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:42:35 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Te ayudamos a l...')
+#1 /home/connectus/public_html/system/library/FileManager.php(128): PHPExcel_Worksheet->setTitle('Te ayudamos a l...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(218): FileManager->excel(Array, Array, 'Te ayudamos a l...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+
+[18-Dec-2015 17:42:36 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Maximum 31 characters allowed in sheet title.' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php:472
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(841): PHPExcel_Worksheet::_checkSheetTitle('Te ayudamos a l...')
+#1 /home/connectus/public_html/system/library/FileManager.php(128): PHPExcel_Worksheet->setTitle('Te ayudamos a l...')
+#2 /home/connectus/public_html/admin/controller/mailing/estadistica.php(218): FileManager->excel(Array, Array, 'Te ayudamos a l...', Array)
+#3 [internal function]: ControllerMailingEstadistica->exp(Array)
+#4 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#5 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#6 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#7 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object( in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 472
+[18-Dec-2015 17:45:34 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+
+
+
+
+
+
+
+[18-Dec-2015 17:48:44 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:50:40 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:57:57 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 17:59:47 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 18:13:16 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 18:14:15 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[18-Dec-2015 18:21:25 America/Santiago] PHP Parse error:  syntax error, unexpected '{' in /home/connectus/public_html/admin/view/template/mailing/historial.tpl on line 105
+[18-Dec-2015 18:21:51 America/Santiago] PHP Parse error:  syntax error, unexpected '{' in /home/connectus/public_html/admin/view/template/mailing/historial.tpl on line 105
+[21-Dec-2015 16:42:13 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[21-Dec-2015 16:43:49 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[21-Dec-2015 16:50:16 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[21-Dec-2015 16:52:37 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[21-Dec-2015 16:52:56 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[21-Dec-2015 16:54:17 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 271372 bytes) in /home/connectus/public_html/system/library/db/mpdo.php on line 61
+[21-Dec-2015 17:25:50 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:26:02 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:31:15 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:34:04 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:41:15 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:43:14 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:44:23 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:44:46 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:44:55 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:45:05 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:45:09 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:50:29 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:51:36 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 74
+[21-Dec-2015 17:55:48 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 75
+[21-Dec-2015 17:57:04 America/Santiago] PHP Fatal error:  Call to undefined method ModelMailingEnvio::total_envio() in /home/connectus/public_html/admin/model/mailing/envio.php on line 75
+[21-Dec-2015 17:59:26 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:H328')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[21-Dec-2015 18:08:31 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:H328')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[21-Dec-2015 18:13:38 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:H328')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[21-Dec-2015 18:14:06 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:H328')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[22-Dec-2015 15:25:07 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!B2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:H252')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[22-Dec-2015 15:25:44 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!B2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:H252')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[05-Jan-2016 13:57:04 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:J46')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[05-Jan-2016 14:00:20 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:J46')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[05-Jan-2016 14:02:12 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:J46')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[05-Jan-2016 14:02:55 America/Santiago] PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message 'Worksheet!C2 -> Formula Error: An unexpected error occured' in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php:300
+Stack trace:
+#0 /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php(2458): PHPExcel_Cell->getCalculatedValue()
+#1 /home/connectus/public_html/admin/controller/contactos/crear_lista_contactos.php(184): PHPExcel_Worksheet->rangeToArray('A1:J46')
+#2 [internal function]: ControllerContactosCrearListaContactos->uploadToServer(Array)
+#3 /home/connectus/public_html/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Cell.php on line 300
+[28-Jan-2016 18:38:52 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 72 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 2479
+[28-Jan-2016 18:40:14 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 72 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 2479
+[28-Jan-2016 18:45:45 America/Santiago] PHP Fatal error:  Allowed memory size of 335544320 bytes exhausted (tried to allocate 72 bytes) in /home/connectus/public_html/system/library/libreriaExcel/PHPExcel/Worksheet.php on line 2479
+[01-Feb-2016 12:01:45 America/Santiago] PHP Warning:  require_once(C:/proyectos/connectus/public_html/test/system/startup.php): failed to open stream: No such file or directory in /home/connectus/public_html/test/admin/index.php on line 17
+[01-Feb-2016 12:01:45 America/Santiago] PHP Fatal error:  require_once(): Failed opening required 'C:/proyectos/connectus/public_html/test/system/startup.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/connectus/php') in /home/connectus/public_html/test/admin/index.php on line 17
+[01-Feb-2016 12:02:07 America/Santiago] PHP Warning:  require_once(C:/proyectos/connectus/public_html/test/system/startup.php): failed to open stream: No such file or directory in /home/connectus/public_html/test/admin/index.php on line 17
+[01-Feb-2016 12:02:07 America/Santiago] PHP Fatal error:  require_once(): Failed opening required 'C:/proyectos/connectus/public_html/test/system/startup.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/connectus/php') in /home/connectus/public_html/test/admin/index.php on line 17
+[02-Feb-2016 11:45:36 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/connectus/public_html/test/connectus/MandrillController.php:15
+Stack trace:
+#0 /home/connectus/public_html/test/connectus/MandrillController.php(15): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php(292): MandrillController->__construct()
+#2 [internal function]: ControllerMailingEnviarMail->enviar(Array)
+#3 /home/connectus/public_html/test/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/test/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/test/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/test/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/test/connectus/MandrillController.php on line 15
+[02-Feb-2016 11:46:25 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/connectus/public_html/test/connectus/MandrillController.php:15
+Stack trace:
+#0 /home/connectus/public_html/test/connectus/MandrillController.php(15): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php(292): MandrillController->__construct()
+#2 [internal function]: ControllerMailingEnviarMail->enviar(Array)
+#3 /home/connectus/public_html/test/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/test/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/test/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/test/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/test/connectus/MandrillController.php on line 15
+[02-Feb-2016 12:25:39 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/connectus/public_html/test/connectus/MandrillController.php:15
+Stack trace:
+#0 /home/connectus/public_html/test/connectus/MandrillController.php(15): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php(292): MandrillController->__construct()
+#2 [internal function]: ControllerMailingEnviarMail->enviar(Array)
+#3 /home/connectus/public_html/test/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/test/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/test/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/test/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/test/connectus/MandrillController.php on line 15
+[02-Feb-2016 12:25:44 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/connectus/public_html/test/connectus/MandrillController.php:15
+Stack trace:
+#0 /home/connectus/public_html/test/connectus/MandrillController.php(15): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php(292): MandrillController->__construct()
+#2 [internal function]: ControllerMailingEnviarMail->enviar(Array)
+#3 /home/connectus/public_html/test/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/test/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/test/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/test/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/test/connectus/MandrillController.php on line 15
+[02-Feb-2016 12:51:52 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/connectus/public_html/test/connectus/MandrillController.php:15
+Stack trace:
+#0 /home/connectus/public_html/test/connectus/MandrillController.php(15): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php(292): MandrillController->__construct()
+#2 [internal function]: ControllerMailingEnviarMail->enviar(Array)
+#3 /home/connectus/public_html/test/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/test/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/test/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/test/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/test/connectus/MandrillController.php on line 15
+[02-Feb-2016 13:03:36 America/Santiago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'connectu_test'@'localhost' to database 'connectu_adm_connectus'' in /home/connectus/public_html/test/connectus/MandrillController.php:29
+Stack trace:
+#0 /home/connectus/public_html/test/connectus/MandrillController.php(29): PDO->__construct('mysql:host=loca...', 'connectu_test', 'Connectus.2016;')
+#1 /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php(292): MandrillController->__construct()
+#2 [internal function]: ControllerMailingEnviarMail->enviar(Array)
+#3 /home/connectus/public_html/test/system/engine/action.php(65): call_user_func(Array, Array)
+#4 /home/connectus/public_html/test/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/connectus/public_html/test/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/connectus/public_html/test/admin/index.php(175): Front->dispatch(Object(Action), Object(Action))
+#7 {main}
+  thrown in /home/connectus/public_html/test/connectus/MandrillController.php on line 29
+[15-Feb-2016 14:37:50 America/Santiago] PHP Fatal error:  Call to undefined function confirmaArchivo() in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 615
+[15-Feb-2016 14:38:21 America/Santiago] PHP Fatal error:  Call to undefined method ControllerMailingEnviarMail::confirmaArchivo() in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 615
+[15-Feb-2016 15:02:21 America/Santiago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 636
+[15-Feb-2016 15:05:18 America/Santiago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 640
+[15-Feb-2016 15:09:42 America/Santiago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 643
+[15-Feb-2016 15:15:41 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 639
+[15-Feb-2016 15:16:26 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 639
+[15-Feb-2016 16:29:58 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 639
+[15-Feb-2016 16:33:16 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 644
+[15-Feb-2016 16:34:09 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 644
+[15-Feb-2016 16:34:21 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 643
+[15-Feb-2016 16:35:25 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 643
+[15-Feb-2016 16:35:43 America/Santiago] PHP Fatal error:  Function name must be a string in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 643
+[23-Feb-2016 14:11:17 America/Santiago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 459
+[23-Feb-2016 14:26:32 America/Santiago] PHP Fatal error:  Class 'Modelmailingenviarmail' not found in /home/connectus/public_html/test/system/engine/loader.php on line 27
+[23-Feb-2016 16:46:55 America/Santiago] PHP Fatal error:  Class 'Controllermailingenviarmail' not found in /home/connectus/public_html/test/system/engine/action.php on line 62
+[23-Feb-2016 16:55:50 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:55:52 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:55:54 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:55:54 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:56:01 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:56:01 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:56:01 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:56:02 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:56:03 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:57:39 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[23-Feb-2016 16:57:42 America/Santiago] PHP Fatal error:  Cannot use try without catch or finally in /home/connectus/public_html/test/admin/controller/mailing/enviar_mail.php on line 450
+[22-Mar-2016 09:28:33 America/Santiago] PHP Fatal error:  require_once(): Failed opening required 'SMS/SMS.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/connectus/php') in /home/connectus/public_html/test/connectus/SmsEnvioController.php on line 3
+[13-Apr-2016 20:32:47 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/test/connectus/MAIL/Drivers/Sendgrid.php on line 129
+[13-Apr-2016 20:34:51 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/connectus/public_html/test/connectus/MAIL/Drivers/Sendgrid.php on line 129
+[13-Apr-2016 20:40:11 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:42:15 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:43:36 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:43:51 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:53:39 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:54:01 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:56:52 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:58:07 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:58:09 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:58:34 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:58:56 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 20:58:58 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:00:13 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:00:16 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:00:47 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:00:48 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:00:49 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:01:05 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:01:25 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:02:15 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:03:22 America/Santiago] PHP Fatal error:  Declaration of SendgridDriver::sendMail() must be compatible with MAILAbstract::sendMail($numero, $mensaje, $remitente, $connectusKey, $momento_envio, $id_empresa, $titulo, $is_predefinido, $nombre_mensaje_predefinido, $id_envio_programado = '') in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 6
+[13-Apr-2016 21:12:05 America/Santiago] PHP Fatal error:  Call to a member function send() on a non-object in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 124
+[13-Apr-2016 21:13:33 America/Santiago] PHP Fatal error:  Call to a member function send() on a non-object in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 124
+[13-Apr-2016 21:13:56 America/Santiago] PHP Fatal error:  Call to a member function send() on a non-object in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 124
+[13-Apr-2016 21:14:12 America/Santiago] PHP Fatal error:  Call to a member function send() on a non-object in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 124
+[13-Apr-2016 21:14:40 America/Santiago] PHP Fatal error:  Call to a member function send() on a non-object in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 124
+[13-Apr-2016 21:17:04 America/Santiago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/connectus/public_html/test/connectus/MAIL/MAILAbstract.php on line 196
+[13-Apr-2016 21:22:28 America/Santiago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/connectus/public_html/test/connectus/MAIL/MAILAbstract.php on line 196
+[13-Apr-2016 21:26:22 America/Santiago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/connectus/public_html/test/connectus/MAIL/MAILAbstract.php on line 196
+[13-Apr-2016 21:26:40 America/Santiago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/connectus/public_html/test/connectus/MAIL/MAILAbstract.php on line 196
+[13-Apr-2016 21:29:15 America/Santiago] PHP Fatal error:  Call to undefined method SendgridDriver::updateDetalleEstado() in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 129
+[14-Apr-2016 00:52:48 America/Santiago] PHP Parse error:  syntax error, unexpected '$mensaje_formateado' (T_VARIABLE) in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 395
+[14-Apr-2016 00:56:48 America/Santiago] PHP Parse error:  syntax error, unexpected '$mensaje_formateado' (T_VARIABLE) in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 395
+[14-Apr-2016 00:57:20 America/Santiago] PHP Parse error:  syntax error, unexpected '$mensaje_formateado' (T_VARIABLE) in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 395
+[14-Apr-2016 00:58:14 America/Santiago] PHP Parse error:  syntax error, unexpected '$mensaje_formateado' (T_VARIABLE) in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 397
+[14-Apr-2016 00:59:55 America/Santiago] PHP Parse error:  syntax error, unexpected '$mensaje_formateado' (T_VARIABLE) in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 397
+[31-May-2016 14:09:50 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 7
+[31-May-2016 14:10:20 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 7
+[31-May-2016 14:10:23 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 7
+[31-May-2016 14:11:32 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 7
+[31-May-2016 14:12:01 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 9
+[31-May-2016 14:14:53 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 7
+[31-May-2016 14:14:55 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 7
+[31-May-2016 14:15:44 America/Santiago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/connectus/public_html/test/admin/controller/reportes/sms.php on line 7

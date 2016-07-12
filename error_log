@@ -1,0 +1,9 @@
+[25-Feb-2016 12:17:51 America/Santiago] PHP Warning:  require(include/head.php): failed to open stream: No such file or directory in /home/connectus/public_html/index.php on line 8
+[25-Feb-2016 12:17:51 America/Santiago] PHP Warning:  require(include/head.php): failed to open stream: No such file or directory in /home/connectus/public_html/index.php on line 8
+[25-Feb-2016 12:17:51 America/Santiago] PHP Fatal error:  require(): Failed opening required 'include/head.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/connectus/php') in /home/connectus/public_html/index.php on line 8
+[25-Feb-2016 12:17:53 America/Santiago] PHP Warning:  require(include/head.php): failed to open stream: No such file or directory in /home/connectus/public_html/index.php on line 8
+[25-Feb-2016 12:17:53 America/Santiago] PHP Warning:  require(include/head.php): failed to open stream: No such file or directory in /home/connectus/public_html/index.php on line 8
+[25-Feb-2016 12:17:53 America/Santiago] PHP Fatal error:  require(): Failed opening required 'include/head.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/connectus/php') in /home/connectus/public_html/index.php on line 8
+[25-Feb-2016 12:19:22 America/Santiago] PHP Warning:  require(include/head.php): failed to open stream: No such file or directory in /home/connectus/public_html/home.php on line 8
+[25-Feb-2016 12:19:22 America/Santiago] PHP Warning:  require(include/head.php): failed to open stream: No such file or directory in /home/connectus/public_html/home.php on line 8
+[25-Feb-2016 12:19:22 America/Santiago] PHP Fatal error:  require(): Failed opening required 'include/head.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/connectus/php') in /home/connectus/public_html/home.php on line 8

@@ -1,0 +1,8 @@
+</head>
+
+<body>
+<div align="center"> <img src="http://www.fpbox.com/monomarketing/verano1-2.gif" width="500" height="350" /><img src="http://www.fpbox.com/monomarketing/verano2-2.gif" width="500" height="350" lowsrc="verano2-2" /> 
+  <img src="http://www.fpbox.com/monomarketing/piemail.gif" name="piemal" width="635" height="150" id="piemal" /> 
+</div>
+</body>
+</html>

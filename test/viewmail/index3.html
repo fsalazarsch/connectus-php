@@ -1,0 +1,30 @@
+<?php 
+  
+  define('DB_DRIVER_CONNECTUS', 'mpdo');
+  define('DB_HOSTNAME_CONNECTUS', 'localhost');
+  define('DB_USERNAME_CONNECTUS', 'connectu_connect');
+  define('DB_PASSWORD_CONNECTUS', 'cOnNectUs_05041977_.#');
+  define('DB_DATABASE_CONNECTUS', 'connectu_adm_connectus');
+  define('DB_PORT_CONNECTUS', '3306');
+  define('DB_PREFIX_CONNECTUS', '');
+  
+  $string_connection = "mysql:host=".DB_HOSTNAME_CONNECTUS.";dbname=".DB_DATABASE_CONNECTUS;
+  $conexion = new PDO($string_connection,DB_USERNAME_CONNECTUS,DB_PASSWORD_CONNECTUS);
+
+  $handle = fopen('php://input','r');
+  $jsonInput = fgets($handle);
+
+   $sss = str_ireplace('&', ',', rawurldecode(urldecode($jsonInput)));
+  //$sss = str_ireplace('&', ',', rawurldecode(urldecode($strs)));
+  $sss = str_ireplace('=', ':', $sss);
+  
+  $json = '{' . $sss . '}';
+
+  $a = preg_replace('/(,|\{)[ \t\n]*(\w+)[ ]*:[ ]*/','$1"$2":',$json);
+  $a = preg_replace('/":\'?([^\[\]\{\}]*?)\'?[ \n\t]*(,"|\}$|\]$|\}\]|\]\}|\}|\])/','":"$1"$2',$a);
+
+  $response =  json_decode($a, true);  
+
+
+  echo json_encode($handle);
+

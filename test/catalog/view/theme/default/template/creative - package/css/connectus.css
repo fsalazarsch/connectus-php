@@ -1,0 +1,48 @@
+
+.circle-background{
+	border-style: solid;
+	font-style:normal;
+	text-align:center;
+	font-size:40px;
+	width:42px;
+	line-height:42px;
+	padding:55px;
+	color:#fff;
+	background-color:#2FA4DB;
+	border-color:#fff;
+	border-width:0px;
+	border-radius:150px;
+	-webkit-border-radius:150px;
+	-moz-border-radius:150px;
+}
+
+.big_button{
+	border-color:#2FA4DB;
+	background-color:#2FA4DB;
+}
+
+.big_button:hover{
+	border-color:#2FA4DB;
+	background-color:#fff;
+	color: #2FA4DB;
+}
+
+.item-caption, .item-caption > a{
+	color: black;
+}
+
+#link-register{
+	text-align: left;
+	color: #009098;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+p > a#link-register{
+	text-align: left;
+}
+
+#register fieldset label{
+	font-weight: bold;
+	color: #2FA4DB;
+}

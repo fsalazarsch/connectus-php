@@ -1,0 +1,4 @@
+Inicio   2015-10-16 0:33:02-->
+{"id_recibido":"48660","0":"48660","mensaje":"Puedo pasar el martes","1":"Puedo pasar el martes","fecha":"2015-10-09 11:51:50","2":"2015-10-09 11:51:50","id_respuesta_servidor":"10329232","3":"10329232","id_empresa":null,"4":null,"destinatario":"56442147839","5":"56442147839","remitente":"56982059447","6":"56982059447","borrado":"0","7":"0"}
+Inicio   2015-10-16 0:33:02-->
+{"id_recibido":"48659","0":"48659","mensaje":"Horario de atencion","1":"Horario de atencion","fecha":"2015-10-09 11:51:17","2":"2015-10-09 11:51:17","id_respuesta_servidor":"10329228","3":"10329228","id_empresa":null,"4":null,"destinatario":"56442147839","5":"56442147839","remitente":"56982059447","6":"56982059447","borrado":"0","7":"0"}

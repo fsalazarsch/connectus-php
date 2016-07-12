@@ -1,0 +1,75 @@
+2015-10-08 18:33:36 - LOG UNICO!!!!
+2016-04-14 5:26:53 - -------------------------
+2016-04-14 5:26:53 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:27:39 - -------------------------
+2016-04-14 5:27:39 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:27:42 - -------------------------
+2016-04-14 5:27:42 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:28:37 - -------------------------
+2016-04-14 5:28:37 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:28:40 - -------------------------
+2016-04-14 5:28:40 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:34:33 - -------------------------
+2016-04-14 5:34:33 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:35:06 - -------------------------
+2016-04-14 5:35:06 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:35:09 - -------------------------
+2016-04-14 5:35:09 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:39:30 - -------------------------
+2016-04-14 5:39:30 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:50:58 - -------------------------
+2016-04-14 5:50:58 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:52:58 - -------------------------
+2016-04-14 5:52:58 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:55:19 - -------------------------
+2016-04-14 5:55:19 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:55:29 - -------------------------
+2016-04-14 5:55:29 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:56:11 - -------------------------
+2016-04-14 5:56:11 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:58:03 - -------------------------
+2016-04-14 5:58:03 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:21:12 - -------------------------
+2016-04-14 6:21:12 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:21:16 - -------------------------
+2016-04-14 6:21:16 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:21:31 - -------------------------
+2016-04-14 6:21:31 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:22:41 - -------------------------
+2016-04-14 6:22:41 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:25:34 - -------------------------
+2016-04-14 6:25:34 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:33:07 - -------------------------
+2016-04-14 6:33:07 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:33:49 - -------------------------
+2016-04-14 6:33:49 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:37:33 - -------------------------
+2016-04-14 6:37:33 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 6:38:19 - -------------------------
+2016-04-14 6:38:19 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 8:31:44 - -------------------------
+2016-04-14 8:31:44 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:04:33 - -------------------------
+2016-04-14 11:04:33 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:05:02 - -------------------------
+2016-04-14 11:05:02 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:11:22 - -------------------------
+2016-04-14 11:11:22 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:13:20 - -------------------------
+2016-04-14 11:13:20 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:16:43 - -------------------------
+2016-04-14 11:16:43 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:18:50 - -------------------------
+2016-04-14 11:18:50 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:20:14 - -------------------------
+2016-04-14 11:20:14 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:48:20 - -------------------------
+2016-04-14 11:48:20 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 11:58:31 - -------------------------
+2016-04-14 11:58:31 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 12:11:11 - -------------------------
+2016-04-14 12:11:11 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 12:11:15 - -------------------------
+2016-04-14 12:11:15 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 14:23:46 - -------------------------
+2016-04-14 14:23:46 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2

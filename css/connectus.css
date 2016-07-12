@@ -1,0 +1,136 @@
+/* Custom CSS */
+IMG.displayed { display: block; margin-left: auto; margin-right: auto }
+
+/* Top Bar*/
+#BotAccount {
+    font-family: 'Raleway', sans-serif; 
+    font-size: 11px; 
+    font-weight: 600; 
+    color: #ffffff; 
+    text-transform: uppercase; 
+    background-color: #ffa902; 
+    padding: 2px 12px 0px 12px; 
+    border-radius: 6px; 
+    margin-right: 10px;
+}
+
+#BotAccount:hover{
+        background-color: #ffa902; 
+}
+
+*#BotAccount a { color: #000000; }
+*#BotAccount a:hover { color: #ffffff; }
+
+
+
+
+.AccountLink { color: #000000; }
+.AccountLink:hover { color: #065e92; }
+#UserLog { font-family: 'Raleway', sans-serif; font-size: 11px; font-weight: 600; color: #ffffff; text-transform: uppercase; background-color: #065e92; padding: 2px 20px 0px 20px; border-radius: 6px; margin-right: 10px; }
+#UserLog:hover{ background-color: #277DB0; }
+/* Content Connectus */
+#MainServices { font-family: 'Raleway', sans-serif; font-size: 14px; color: #ffffff; background-color: #1f90d4; text-align: center; }
+#MainTitle { font-size: 28px; margin-top: 18px; margin-bottom: -20px; }
+.MainSubtitle { font-size: 18px;}
+#ServicesTitle { font-family: 'Raleway', sans-serif; font-size: 30px; font-weight: 700; margin-top: 20px; margin-bottom: 20px; width: 100%; border-bottom: 2px solid #79c7ea; padding-bottom: 20px; text-align: center; text-transform: uppercase; }
+.pServices { font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: normal; }
+#MyBtnplace { width: 100%; padding-left: 30px; padding-right: 30px; }
+#MyBtn { font-family: 'Raleway', sans-serif; font-size: 14px; font-weight: 700; color: #ffffff; background-color: #065e92; border-radius: 6px; text-transform: uppercase; padding: 12px; width: 100%; border: 2px solid #065e92; }
+#MyBtn:hover { color: #000000; background-color: #277DB0; border: 2px solid #277DB0;  }
+#MyBtnInactive { font-family: 'Raleway', sans-serif; font-size: 14px; font-weight: 700; color: #ffffff; background-color: transparent; border-radius: 6px; text-transform: uppercase; padding: 12px; width: 100%; border: 2px solid #ffffff; }
+.TextBlank { color: #ffffff; }
+
+/* Content Plataform */
+#MainPlataform { font-size: 14px; color: #ffffff; background-color: #545353; text-align: center; padding-top: 38px; }
+#SectionTitle { font-family: 'Raleway', sans-serif; font-size: 28px; font-weight: 400; color: #ffffff; text-transform: uppercase; }
+#PlataformTitle { font-family: 'Raleway', sans-serif; font-size: 14px; font-weight: 600; color: #ffffff; text-transform: uppercase; margin-top: 20px; margin-bottom: 20px; }
+.pPlataform { font-family: 'Open Sans', sans-serif; font-size: 13px; line-height: normal; color: #ffffff; }
+
+/* Callout */
+#MyCallOut { background-color: #c7eafb; overflow: hidden; padding-top: 40px; padding-bottom: 40px; }
+#CallOutText { font-family: 'Raleway', sans-serif; font-size: 24px; color: #131313; text-align: right; border-right: 1px solid #065e92; padding-right: 20px; width: 100%; height: 60px; padding-top: 15px;  }
+#CallOutBtn { padding-top: 15px;  }
+.CallOutBot { font-family: 'Raleway', sans-serif; font-size: 17px; font-weight: 700; color: #030000; text-transform: uppercase; border-color: #fba61a; background-color: #fba61a; border-radius: 6px; padding: 20px; }
+
+.CallOutBot:hover { font-family: 'Raleway', sans-serif; font-size: 17px; font-weight: 700; color: #fba61a; text-transform: uppercase; border: 2px solid #fba61a; background-color: transparent; border-radius: 6px; padding: 20px; }
+
+/* Footer */
+#FooterLogo { padding-top: 2em; margin-bottom: 20px; }
+#FooterMn { font-family: 'Raleway', sans-serif; font-size: 12px; font-weight: 500; color: #ffffff; text-transform: uppercase; margin-bottom: 20px; line-height: normal; }
+#FooterData { font-family: 'Open Sans', sans-serif; font-size: 11px; font-weight: 500; color: #ffffff; line-height: normal; text-transform: uppercase; }
+
+#contactinfo-2{
+    margin-bottom: 1px;
+}
+
+#FooterLogo2{
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+
+
+/* Pages */
+#PageHeader { background-color: #545353; text-align: center; padding-bottom: 20px; }
+#PageData { font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 400; color: #ffffff; text-align: left; line-height: normal; border-left: 3px solid #989898; padding-left: 30px; margin-top: 35px; }
+#PageTitle { font-family: 'Raleway', sans-serif; font-size: 20px; font-weight: 700; color: #ffffff; text-align: left; line-height: normal; margin-bottom: -20px; }
+#PortWhy { text-align: center; margin-top: 40px; }
+#SectionTitleBlue { font-family: 'Raleway', sans-serif; font-size: 28px; font-weight: 400; color: #1f90d4; text-transform: uppercase; }
+#SectionTitleBlueLeft { font-family: 'Raleway', sans-serif; font-size: 28px; font-weight: 400; color: #1f90d4; text-transform: uppercase; text-align: left; margin-bottom: 35px; }
+#TipsContainer { margin-top: 50px; }
+.TipsData { font-family: 'Open Sans', sans-serif; font-size: 14px; color: #545353; text-align: left; line-height: normal; }
+.TipsText { font-family: 'Raleway', sans-serif; font-size: 14px; font-weight: 600; color: #545353; line-height: normal; text-align: center; text-transform: uppercase; margin-top: 15px; }
+.ClientText { font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: 400; color: #545353; line-height: normal; margin-top: 15px; }
+.PriceTable { width: 100%; border: 1px solid #bbbaba; font-family: 'Open Sans', sans-serif; color: #000000; }
+.TdTitle1 { background-color: #cfcdcd; padding: 2px; text-align: left; padding-left: 15px; border-bottom: 1px solid #bbbaba; }
+.TdTitle2 { background-color: #cfcdcd; padding: 2px; text-align: right; padding-right: 15px; border-bottom: 1px solid #bbbaba; }
+.PriceTd1 { background-color: #eeeded; padding: 2px; text-align: left; padding-left: 15px; }
+.PriceTd2 { background-color: #eeeded; padding: 2px; text-align: right; padding-right: 15px; }
+.PriceTd3 { background-color: #ffffff; padding: 2px; text-align: left; padding-left: 15px; }
+.PriceTd4 { background-color: #ffffff; padding: 2px; text-align: right; padding-right: 15px; }
+.TableInfo { font-family: 'Open Sans', sans-serif; font-size: 12px; color: #545353; }
+.TestimonialAuthor { font-family: 'Open Sans', sans-serif; font-size: 12px; font-weight: 400; color: #545353; }
+.MySelect { font-family: 'Open Sans', sans-serif; color: #fc0; }
+
+/* Plataform */
+.PlataformSubtitle { font-family: 'Open Sans', sans-serif; font-size: 14px; color: #545353; text-align: center; line-height: normal; margin-top: 35px; padding-bottom: 10px; }
+.PlataformBot { font-family: 'Raleway', sans-serif; font-size: 17px; font-weight: 700; color: #ffffff; text-transform: uppercase; border-color: #fba61a; background-color: #065e92; border-radius: 6px; padding: 20px; }
+.PlataformBot:hover { font-family: 'Raleway', sans-serif; font-size: 17px; font-weight: 700; color: #065e92; text-transform: uppercase; border: 2px solid #065e92; background-color: transparent; border-radius: 6px; padding: 20px; }
+
+
+/* Smartphones */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px)
+and (orientation : portrait) { #MainTitle { font-size: 18px; } .MainSubtitle { font-size: 12px; } #PageData { border-left: 0px; text-align: center; padding-left: 0px; margin-top: 0px; } #PageTitle { text-align: center; } .TipsData { text-align: center; } #SectionTitleBlueLeft { text-align: center; } .BtnSlider { font-size: 35px; line-height: 1; } #CallOutText { border-bottom: 1px solid #065e92; border-right: none; text-align: center; padding-right: 0px; padding-bottom: 10px; height: auto;  } .CallOutBot { font-size: 12px; border-radius: 6px; padding: 20px; } 
+
+.CallOutBot:hover { font-size: 12px; } #MyCallOut { padding-top: 20px; padding-bottom: 20px; } #CallOutBtn { padding-top: 0px;  } #TipsContainer { margin-top: 0px; } #CallOutMobile { width: 100%; text-align: center; overflow: hidden; border-radius: 6px; padding: 20px;  } }
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+and (orientation : landscape) { #PageData { border-left: 0px; text-align: center; padding-left: 0px; } #PageTitle { text-align: center; } .TipsData { text-align: center; } #SectionTitleBlueLeft { text-align: center; } #MyCallOut { padding-top: 20px; padding-bottom: 20px; } #CallOutText { text-align: center; border-right: none; border-bottom: 1px solid #065e92; } #CallOutBtn { padding-top: 0px; text-align: center;  } #TipsContainer { margin-top: 0px; } #CallOutMobile { width: 100%; text-align: center; overflow: hidden; border-radius: 6px; padding: 20px;  } }
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { .BtnSlider { font-size: 35px; line-height: 1; }  }
+
+/* Tablets */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)
+and (orientation : portrait) { .TipsContainer { width: 100%; text-align: center; } #CallOutText { font-size: 18px; } 
+.CallOutBot { font-size: 12px; } }
+
+@media only screen and (max-width: 700px) {
+
+   
+
+    #FooterLogo2
+    {
+        width: 100%;
+        max-width: none;
+        margin-top: 2em;
+    }
+
+}

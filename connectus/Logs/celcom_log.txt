@@ -1,0 +1,166 @@
+Inicio 2016-02-19 18:09:31
+ {"id_msg":"160218000000000134130899","id_std":"010"}<status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-02-19 18:10:09
+ {"id_msg":"160218000000000134130899","id_std":"021","PHPSESSID":"e4ac00e9982f75f14712277cf0f2bf0c","currency":"USD"}<status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-02-19 18:10:16
+ {"PHPSESSID":"e4ac00e9982f75f14712277cf0f2bf0c","currency":"USD"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-02-19 18:10:19
+ {"id_msg":"160218000000000134130899","id_std":"010"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-02-19 18:11:13
+ {"id_msg":"160218000000000134130899","id_std":"010"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-02-19 18:11:36
+ []
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-10 13:59:12
+ {"id_msg":"160310000253000134824055","id_std":"010","fecha":"2016-03-10 13:57:56.303"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-10 14:11:13
+ {"id_msg":"160310000253000134824055","id_std":"020","fecha":"2016-03-10 14:09:57.306"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-10 14:12:37
+ {"id_msg":"160310000253000134824814","id_std":"010","fecha":"2016-03-10 14:11:20.639"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-10 14:12:42
+ {"id_msg":"160310000253000134824814","id_std":"020","fecha":"2016-03-10 14:11:25.810"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-10 15:04:57
+ {"id_msg":"160310000253000134827224","id_std":"010","fecha":"2016-03-10 15:03:40.668"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-10 15:05:03
+ {"id_msg":"160310000253000134827224","id_std":"020","fecha":"2016-03-10 15:03:45.748"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 12:48:36
+ {"id_msg":"160316000253000135077405","id_std":"010","fecha":"2016-03-16 12:47:13.665"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 12:48:37
+ {"id_msg":"160316000253000135077406","id_std":"010","fecha":"2016-03-16 12:47:14.964"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 12:48:51
+ {"id_msg":"160316000253000135077406","id_std":"020","fecha":"2016-03-16 12:47:29.293"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 12:49:15
+ {"id_msg":"160316000253000135077405","id_std":"020","fecha":"2016-03-16 12:47:53.192"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 13:55:49
+ {"id_msg":"160316000253000135085637","id_std":"010","fecha":"2016-03-16 13:54:27.369"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 13:56:13
+ {"id_msg":"160316000253000135085637","id_std":"020","fecha":"2016-03-16 13:54:51.368"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 15:32:55
+ {"id_msg":"160316000253000135090635","id_std":"010","fecha":"2016-03-16 15:31:32.952"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 15:33:04
+ {"id_msg":"160316000253000135090635","id_std":"020","fecha":"2016-03-16 15:31:42.223"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 15:40:07
+ {"id_msg":"160316000253000135090917","id_std":"010","fecha":"2016-03-16 15:38:45.091"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-16 15:40:12
+ {"id_msg":"160316000253000135090917","id_std":"020","fecha":"2016-03-16 15:38:50.308"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-21 13:14:01
+ {"id_msg":"160321000253000135275105","id_std":"010","fecha":"2016-03-21 13:12:42.368"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-03-21 13:32:55
+ {"id_msg":"160321000253000135275105","id_std":"020","fecha":"2016-03-21 13:31:36.425"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-05-02 12:04:13
+ {"id_msg":"160502000253000136550830","id_std":"010","fecha":"2016-05-02 12:02:45.052"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-05-02 14:12:47
+ {"id_msg":"160502000253000136550830","id_std":"020","fecha":"2016-05-02 14:11:18.482"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-05-11 10:09:53
+ {"id_msg":"160511000253000136890881","id_std":"010","fecha":"2016-05-11 10:08:23.215"}
+R: <status>000</status>
+Ejecucion terminada
+
+
+Inicio 2016-05-11 10:29:01
+ {"id_msg":"160511000253000136890881","id_std":"020","fecha":"2016-05-11 10:27:31.165"}
+R: <status>000</status>
+Ejecucion terminada
+
+

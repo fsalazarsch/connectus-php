@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="858fd110-eef6-4865-a84a-12f7f08b2996" name="Default" comment="" />
+    <ignored path="connectus.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="connectus" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="105" column="0" selection-start="2975" selection-end="2975" vertical-scroll-proportion="-24.615385" vertical-offset="1145" max-vertical-offset="3468">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectusController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConnectusController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="368" column="8" selection-start="11647" selection-end="11647" vertical-scroll-proportion="0.25373134" vertical-offset="3672" max-vertical-offset="4301">
+              <folding>
+                <element signature="n#sendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+                <element signature="e#1977#2031#0" expanded="false" />
+                <element signature="n#getSendMailById#0;n#ConnectusController#0;n#!!top" expanded="false" />
+                <element signature="e#2580#2634#0" expanded="false" />
+                <element signature="n#getAllSendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+                <element signature="e#3249#3308#0" expanded="false" />
+                <element signature="n#getDesinscritos#0;n#ConnectusController#0;n#!!top" expanded="false" />
+                <element signature="e#3805#3908#0" expanded="false" />
+                <element signature="n#sendMassMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+                <element signature="e#4755#4879#0" expanded="false" />
+                <element signature="e#6591#6765#0" expanded="false" />
+                <element signature="e#9571#9742#0" expanded="false" />
+                <element signature="e#10116#10328#0" expanded="false" />
+                <marker date="1435271858952" expanded="true" signature="11197:11234" placeholder="SELECT * FRO..oc_user..." />
+                <marker date="1435271858952" expanded="true" signature="11885:11942" placeholder="SELECT numer..contacto..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/rest/index.php" />
+        <option value="$PROJECT_DIR$/ConnectusController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpRedundantClosingTagInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../opencart" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistory" value="&#10;&lt;" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="858fd110-eef6-4865-a84a-12f7f08b2996" name="Default" comment="" />
+      <created>1435202059209</created>
+      <updated>1435202059209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.50078493" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.49921507" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rest/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="57" selection-start="3275" selection-end="3275" vertical-scroll-proportion="0.0" vertical-offset="1553" max-vertical-offset="3468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectusController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="184" column="0" selection-start="5016" selection-end="5016" vertical-scroll-proportion="0.0" vertical-offset="3128" max-vertical-offset="3587">
+          <folding>
+            <element signature="n#sendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#1977#2031#0" expanded="false" />
+            <element signature="n#getSendMailById#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#2580#2634#0" expanded="false" />
+            <element signature="n#getAllSendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3249#3308#0" expanded="false" />
+            <element signature="n#getDesinscritos#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3805#3908#0" expanded="false" />
+            <element signature="n#sendMassMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#4755#4879#0" expanded="false" />
+            <element signature="e#6591#6765#0" expanded="false" />
+            <element signature="e#9571#9742#0" expanded="false" />
+            <element signature="e#10116#10328#0" expanded="false" />
+            <marker date="1435271858952" expanded="true" signature="11197:11234" placeholder="SELECT * FRO..oc_user..." />
+            <marker date="1435271858952" expanded="true" signature="11885:11942" placeholder="SELECT numer..contacto..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="26" selection-start="3122" selection-end="3122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectusController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="28" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="3043">
+          <folding>
+            <element signature="n#sendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#1977#2031#0" expanded="false" />
+            <element signature="n#getSendMailById#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#2580#2634#0" expanded="false" />
+            <element signature="n#getAllSendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3249#3308#0" expanded="false" />
+            <element signature="n#getDesinscritos#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3805#3908#0" expanded="false" />
+            <element signature="n#sendMassMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#4755#4879#0" expanded="false" />
+            <element signature="e#6591#6765#0" expanded="false" />
+            <element signature="e#9571#9742#0" expanded="false" />
+            <element signature="e#10116#10328#0" expanded="false" />
+            <marker date="1435271858952" expanded="true" signature="11197:11234" placeholder="SELECT * FRO..oc_user..." />
+            <marker date="1435271858952" expanded="true" signature="11885:11942" placeholder="SELECT numer..contacto..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="24" selection-start="3652" selection-end="3663" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="3485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectusController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="37" selection-start="7039" selection-end="7039" vertical-scroll-proportion="0.0" vertical-offset="4097" max-vertical-offset="6069">
+          <folding>
+            <element signature="n#sendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#1977#2031#0" expanded="false" />
+            <element signature="n#getSendMailById#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#2580#2634#0" expanded="false" />
+            <element signature="n#getAllSendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3249#3308#0" expanded="false" />
+            <element signature="n#getDesinscritos#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3805#3908#0" expanded="false" />
+            <element signature="n#sendMassMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#4755#4879#0" expanded="false" />
+            <element signature="e#6591#6765#0" expanded="false" />
+            <element signature="e#9571#9742#0" expanded="false" />
+            <element signature="e#10116#10328#0" expanded="false" />
+            <marker date="1435271858952" expanded="true" signature="11197:11234" placeholder="SELECT * FRO..oc_user..." />
+            <marker date="1435271858952" expanded="true" signature="11885:11942" placeholder="SELECT numer..contacto..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="2975" selection-end="2975" vertical-scroll-proportion="-24.615385" vertical-offset="1145" max-vertical-offset="3468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectusController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="368" column="8" selection-start="11647" selection-end="11647" vertical-scroll-proportion="0.25373134" vertical-offset="3672" max-vertical-offset="4301">
+          <folding>
+            <element signature="n#sendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#1977#2031#0" expanded="false" />
+            <element signature="n#getSendMailById#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#2580#2634#0" expanded="false" />
+            <element signature="n#getAllSendMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3249#3308#0" expanded="false" />
+            <element signature="n#getDesinscritos#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#3805#3908#0" expanded="false" />
+            <element signature="n#sendMassMail#0;n#ConnectusController#0;n#!!top" expanded="false" />
+            <element signature="e#4755#4879#0" expanded="false" />
+            <element signature="e#6591#6765#0" expanded="false" />
+            <element signature="e#9571#9742#0" expanded="false" />
+            <element signature="e#10116#10328#0" expanded="false" />
+            <marker date="1435271858952" expanded="true" signature="11197:11234" placeholder="SELECT * FRO..oc_user..." />
+            <marker date="1435271858952" expanded="true" signature="11885:11942" placeholder="SELECT numer..contacto..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

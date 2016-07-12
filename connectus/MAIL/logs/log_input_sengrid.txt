@@ -1,0 +1,54 @@
+Inicio 2016-07-11 18:30:28
+[{"id_empresa":"136","ip":"164.77.141.226","sg_message_id":"_IySV_SJRl6rftP6OUkz2w.filter0473p1mdw1.11603.5783E5CC72.704","sg_event_id":"YTJmZTcwNzYtOTY3Ny00Y2JmLTk3NzAtMWI2OWFlM2MwNzU1","useragent":"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","event":"click","email":"luisaflores1983@gmail.com","url_offset":{"index":1,"type":"html"},"timestamp":1468272211,"id_envio":"27081","url":"http://connectus.cl/system/download/mail/Impto._Diferido_Julio_2016_.pdf","category":["136-27081"]}]
+
+ -->click
+ -->luisaflores1983@gmail.com
+ -->27081
+Ejecucion terminada
+
+
+Inicio 2016-07-11 18:30:34
+[{"id_empresa":"136","ip":"186.105.181.41","sg_message_id":"eOzUngNmSMCEKWo1oLl0yA.filter0406p1mdw1.23139.5783FA9E3C.588","sg_event_id":"ODJkMTZkZDktNDJlZC00ZWFmLWE1ZjgtYzZmODYyYzFlZjM3","useragent":"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","event":"click","email":"bdoayalav@yahoo.es","url_offset":{"index":1,"type":"html"},"timestamp":1468272225,"id_envio":"27689","url":"http://connectus.cl/system/download/mail/Impuesto.pdf","category":["136-27689"]}]
+
+ -->click
+ -->bdoayalav@yahoo.es
+ -->27689
+Ejecucion terminada
+
+
+Inicio 2016-07-11 18:30:43
+[{"id_empresa":"136","ip":"66.249.88.35","sg_event_id":"YzViZDcwNTktMGYyMi00Zjc2LTgyZWYtZGU4NzEyNzg2YzVi","sg_message_id":"bEpOrxpcSlCZn6Zd8I5oqg.filter0473p1mdw1.11603.5783FAA12B.672","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"isilva.mac@gmail.com","timestamp":1468272607,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:30:44
+[{"id_empresa":"136","ip":"179.4.172.80","sg_event_id":"ZDMyZjI1NWEtY2E0NC00ZTczLTk2NzUtN2FhZDE1MmRiMWFj","sg_message_id":"eOzUngNmSMCEKWo1oLl0yA.filter0406p1mdw1.23139.5783FA9E3C.464","useragent":"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","event":"open","email":"ascontyt@yahoo.es","timestamp":1468272309,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:30:45
+[{"id_empresa":"136","ip":"201.241.194.49","sg_message_id":"bEpOrxpcSlCZn6Zd8I5oqg.filter0473p1mdw1.11603.5783FAA12B.456","sg_event_id":"ZTc2N2I2MGUtYzRjMi00ZTFiLWE0NWYtNjE4NTEzNzRkODBk","useragent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36","event":"click","email":"hernanriq@gmail.com","url_offset":{"index":1,"type":"html"},"timestamp":1468272238,"id_envio":"27689","url":"http://connectus.cl/system/download/mail/Impuesto.pdf","category":["136-27689"]}]
+Inicio 2016-07-11 18:30:45
+[{"id_empresa":"136","ip":"66.249.88.24","sg_event_id":"ZDZkMWIyN2QtOGE5ZS00Y2ZlLWI5MzAtYzljMjJlMmIzYmEy","sg_message_id":"RPwMu7PjSTqRo_9QJA4wXg.filter0606p1mdw1.24220.5783E5CE4.588","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"nhoellb@gmail.com","timestamp":1468269372,"id_envio":"27081","category":["136-27081"]}]
+Inicio 2016-07-11 18:30:47
+[{"id_empresa":"136","ip":"66.249.88.35","sg_event_id":"YTk4MzFmZGQtNDEwYS00MmI3LThhNTItNWVlM2ZiZTgyNWFi","sg_message_id":"bEpOrxpcSlCZn6Zd8I5oqg.filter0473p1mdw1.11603.5783FAA12B.841","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"jcatalanc@catalanyasociados.cl","timestamp":1468271385,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:30:48
+[{"id_empresa":"136","ip":"164.77.141.226","sg_message_id":"_IySV_SJRl6rftP6OUkz2w.filter0473p1mdw1.11603.5783E5CC72.704","sg_event_id":"YjBhNTAwMWEtZjk3MC00M2E2LWI3YjktOGYzNjc0NTBmZDAw","useragent":"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","event":"click","email":"luisaflores1983@gmail.com","url_offset":{"index":1,"type":"html"},"timestamp":1468272238,"id_envio":"27081","url":"http://connectus.cl/system/download/mail/Impto._Diferido_Julio_2016_.pdf","category":["136-27081"]}]
+Inicio 2016-07-11 18:30:50
+[{"id_empresa":"136","ip":"66.249.88.24","sg_event_id":"ODg0MzkzNTEtMWNkMC00Yzg2LTg3OTItMTFhODNiMmFmMjZh","sg_message_id":"d4UuhPBpSiC5enqcZ1z-Bw.filter0832p1mdw1.2737.5783FAA216.889","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"marcelamonterov@gmail.com","timestamp":1468268484,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:30:52
+[{"id_empresa":"136","ip":"66.249.83.204","sg_event_id":"ZDUzZmZiMjUtZjAwOC00OGE1LWEyNGYtMDM4ODRmZDhkMjUw","sg_message_id":"_IySV_SJRl6rftP6OUkz2w.filter0473p1mdw1.11603.5783E5CC72.935","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"margaritadiazarenas@gmail.com","timestamp":1468271561,"id_envio":"27081","category":["136-27081"]}]
+Inicio 2016-07-11 18:30:52
+[{"id_empresa":"136","ip":"66.249.83.204","sg_event_id":"OGFmMGFjYzItMDMxZi00MWFlLTk2ZTktNWMyMTMyYzg0MDJk","sg_message_id":"OcPKjjdmRCSbEuoujykowg.filter0592p1mdw1.6173.5783E5D064.366","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"roberto.cancino.p@gmail.com","timestamp":1468271427,"id_envio":"27081","category":["136-27081"]}]
+Inicio 2016-07-11 18:31:00
+[{"id_empresa":"136","ip":"66.249.88.24","sg_event_id":"ZTUyOGE3NDUtZjdkMC00MmZiLThhZjktOTNkNzg4NjFhYTJh","sg_message_id":"d4UuhPBpSiC5enqcZ1z-Bw.filter0832p1mdw1.2737.5783FAA216.702","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"luisaflores1983@gmail.com","timestamp":1468272251,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:31:01
+[{"id_empresa":"136","ip":"190.22.129.165","sg_event_id":"NmRlMjBhMzAtMDkxMy00NzQ1LWJkZDctMzhiNTFmZmFkMmMy","sg_message_id":"nzz0p37qTTCYqGCCl4tkWA.filter0633p1mdw1.5588.5783E5CA27.601","useragent":"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Microsoft Outlook 14.0.7012; ms-office; MSOffice 14)","event":"open","email":"dora.espinoza@tie.cl","timestamp":1468269703,"id_envio":"27081","category":["136-27081"]}]
+Inicio 2016-07-11 18:31:03
+[{"id_empresa":"136","ip":"66.249.88.24","sg_event_id":"N2E3NGM1MjItYjgxYi00NWU3LThhMTMtYjQxNWNkOTUyMWQ5","sg_message_id":"cy3ZJ-h-TGuI1nU5VDz4GQ.filter0580p1mdw1.28091.5783FAA513.248","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"recursos.humanos@europlant.cl","timestamp":1468272537,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:31:03
+[{"id_empresa":"136","ip":"66.249.88.24","sg_event_id":"OWNhYjkzMWUtZTczMS00MTM1LWExMTgtOGJiYTUyYjA2Nzcy","sg_message_id":"cy3ZJ-h-TGuI1nU5VDz4GQ.filter0580p1mdw1.28091.5783FAA513.248","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"recursos.humanos@europlant.cl","timestamp":1468272547,"id_envio":"27689","category":["136-27689"]},
+{"id_empresa":"136","ip":"66.249.88.24","sg_event_id":"OWRjMjM2NDctM2JmNS00ZGQyLWJmOTgtNzRiMjk0NzliNWZi","sg_message_id":"Q8TuilmJQg-aQiOSOYdBdQ.filter0509p1mdw1.3526.5783FAA34B.406","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"mptorres26@gmail.com","timestamp":1468272549,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:31:03
+[{"id_empresa":"136","ip":"66.249.88.24","sg_event_id":"ODI0NWZmNmEtZjA1Yy00MDRiLWJmOTctOWRhNzUyZDRiZmJj","sg_message_id":"OcPKjjdmRCSbEuoujykowg.filter0592p1mdw1.6173.5783E5D064.251","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"recursos.humanos@europlant.cl","timestamp":1468272524,"id_envio":"27081","category":["136-27081"]}]
+Inicio 2016-07-11 18:31:03
+[{"id_empresa":"136","ip":"66.249.88.35","sg_event_id":"OTY2ZDBlYTMtMzdkYS00YzUxLTkwYTYtZjkzMDdkNWVjZTAy","sg_message_id":"cy3ZJ-h-TGuI1nU5VDz4GQ.filter0580p1mdw1.28091.5783FAA513.248","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"recursos.humanos@europlant.cl","timestamp":1468272546,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:31:03
+[{"id_empresa":"136","ip":"66.249.88.35","sg_event_id":"OWM4NzJiMmItOGU2Mi00ZWVlLTg3ZTUtMWIwNGRiMTJlYzRm","sg_message_id":"cy3ZJ-h-TGuI1nU5VDz4GQ.filter0580p1mdw1.28091.5783FAA513.248","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open","email":"recursos.humanos@europlant.cl","timestamp":1468272542,"id_envio":"27689","category":["136-27689"]}]
+Inicio 2016-07-11 18:31:04
+[{"id_empresa":"136","ip":"190.47.8.22","sg_event_id":"NjBhNzljMTEtMGU2OS00YjRiLTg1NjctNjU5NzIyMjgwYjY5","sg_message_id":"Q8TuilmJQg-aQiOSOYdBdQ.filter0509p1mdw1.3526.5783FAA34B.871","useragent":"Microsoft Office/16.0 (Microsoft Outlook Mail 16.0.6965; Pro)","event":"open","email":"patricia.pandradeazor@gmail.com","timestamp":1468272538,"id_envio":"27689","category":["136-27689"]}]
+

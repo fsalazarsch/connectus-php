@@ -1,0 +1,700 @@
+ Inicio 2016-04-14 4:51:37
+ -->[{"id_empresa":"132","sg_event_id":"jGNFdR39TKWtMxKKbFDA-A","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","id_detalle_envio":"2345","event":"processed","email":"sebasilvac88@gmail.com","smtp-id":"<u46ms8GxS7CtNxTx_SeLuA@ismtpd0002p1iad1.sendgrid.net>","timestamp":1460620296,"id_envio":"4188"}]
+
+ -->processed
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 4:51:43
+ -->[{"ip":"50.31.49.42","response":"250 2.0.0 OK 1460620298 p78si2845672ioe.128 - gsmtp ","id_empresa":"132","sg_event_id":"MOsFBsTWQ7CWquIwW11efw","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","tls":1,"id_detalle_envio":"2345","event":"delivered","email":"sebasilvac88@gmail.com","timestamp":1460620297,"smtp-id":"<u46ms8GxS7CtNxTx_SeLuA@ismtpd0002p1iad1.sendgrid.net>","id_envio":"4188"}]
+
+ -->delivered
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 4:52:34
+ -->[{"ip":"66.102.8.148","id_empresa":"132","sg_event_id":"MDVhMWM2MTYtYmQ4Ny00NzJhLWJkOTAtM2M0ZjY3ZTU2ZDIy","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620350,"id_envio":"4188"}]
+Inicio 2016-04-14 4:53:10
+ -->[{"ip":"66.102.8.148","id_empresa":"132","sg_event_id":"MDVhMWM2MTYtYmQ4Ny00NzJhLWJkOTAtM2M0ZjY3ZTU2ZDIy","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620350,"id_envio":"4188"}]
+Inicio 2016-04-14 4:53:44
+ -->[{"ip":"66.249.83.248","id_empresa":"132","sg_event_id":"N2Q0MTYzMWYtNzc0NC00YzU0LTk0ZjgtNzE2NTRjMmU5Nzc5","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620423,"id_envio":"4188"}]
+Inicio 2016-04-14 4:54:20
+ -->[{"ip":"66.102.8.148","id_empresa":"132","sg_event_id":"MDVhMWM2MTYtYmQ4Ny00NzJhLWJkOTAtM2M0ZjY3ZTU2ZDIy","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620350,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 4:54:21
+ -->[{"ip":"66.249.83.248","id_empresa":"132","sg_event_id":"N2Q0MTYzMWYtNzc0NC00YzU0LTk0ZjgtNzE2NTRjMmU5Nzc5","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620423,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 4:54:53
+ -->[{"ip":"66.249.83.254","id_empresa":"132","sg_event_id":"YTc5ZTQ2NGQtOTdkNy00ZmFjLTkxNWQtZDgyNDMxYzM5YjZh","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620489,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 4:54:55
+ -->[{"ip":"66.249.88.46","id_empresa":"132","sg_event_id":"YjVkMWQxOWItMTNlZS00OWNjLWFlZjktNmQzOWEwM2JhMzY2","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620490,"id_envio":"4188"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:00:48
+ -->[{"ip":"66.249.83.251","id_empresa":"132","sg_event_id":"MzczNGNmNTMtNDY3Ni00ZWYxLTgyZDEtYjEwNWEwZmRlZWFh","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620840,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:00:55
+ -->[{"ip":"66.249.88.46","id_empresa":"132","sg_event_id":"YmQ3NDRiNzEtZmQwNC00M2I4LThkODItMDliZmQ0ZDM0ZGIz","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620845,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:01:53
+ -->[{"ip":"66.249.88.24","id_empresa":"132","sg_event_id":"NDMyNDc5MzMtOThmYS00ZGUyLWExNjEtZGM5ZGJhYTk1ZjYw","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620911,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:03:14
+ -->[{"ip":"66.249.88.46","id_empresa":"132","sg_event_id":"ZWEyNTYyZDQtMGM0MC00M2MwLTk3NTctYTE0NzZlZTRlNGI1","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620951,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:03:28
+ -->[{"ip":"66.249.88.46","id_empresa":"132","sg_event_id":"MzUwYTkxOGYtNjI1MC00OTQxLWJiMDQtMTc1YjNjODBlNDc0","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460621007,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:06:03
+ -->[{"id_empresa":"132","sg_event_id":"ye79hxJ2SySTRMijEGfbCA","sg_message_id":"1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0","event":"processed","email":"ssilvac@connectus.cl","smtp-id":"<1lgEWnCxQR2WTlIHMi-awg@ismtpd0005p1iad1.sendgrid.net>","timestamp":1460621161,"id_envio":"4189"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:06:09
+ -->[{"response":"Unable to resolve MX record for connectus.cl: ","id_empresa":"132","sg_event_id":"UeHky5J3S26hKTSzhcClHg","sg_message_id":"1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0","event":"deferred","email":"ssilvac@connectus.cl","attempt":"0","timestamp":1460621167,"smtp-id":"<1lgEWnCxQR2WTlIHMi-awg@ismtpd0005p1iad1.sendgrid.net>","id_envio":"4189"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:06:44
+ -->[{"ip":"50.31.49.41","response":"250 2.0.0 OK 1460621203 s81si3338941ios.16 - gsmtp ","id_empresa":"132","sg_event_id":"BC_ksYVVTLSG-GmjsLqYTQ","sg_message_id":"1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0","tls":1,"event":"delivered","email":"ssilvac@connectus.cl","timestamp":1460621203,"smtp-id":"<1lgEWnCxQR2WTlIHMi-awg@ismtpd0005p1iad1.sendgrid.net>","id_envio":"4189"}]
+
+ -->delivered
+ -->ssilvac@connectus.cl
+ -->4189
+ -->1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:07:31
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460621246,"ip":"66.249.88.35","id_envio":"4189","id_empresa":"132","sg_event_id":"OGY0NDcwMzAtNGFjNS00NDI1LWFkMTMtZTlmMjgxNzMyNGEz","sg_message_id":"1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->4189
+ -->1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:07:40
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460621255,"ip":"66.249.88.35","id_envio":"4189","id_empresa":"132","sg_event_id":"NmQzYTE4YjktMGEwMi00M2RlLTk2OTktMzI0ZDQxOTc3OTM2","sg_message_id":"1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->4189
+ -->1lgEWnCxQR2WTlIHMi-awg.filter0857p1mdw1.28375.570F4F652E.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:08:58
+ -->[{"ip":"167.89.17.173","response":"250 2.0.0 OK 1460621336 9si2231848pax.47 - gsmtp ","id_empresa":"132","sg_event_id":"iU_S_xTIRwGDED7gZzr1qA","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1","tls":1,"event":"delivered","email":"sebasilvac88@gmail.com","timestamp":1460621336,"smtp-id":"<XsYCo29iStO9-V4s288KRg@ismtpd0019p1sin1.sendgrid.net>","id_envio":"4190"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:09:08
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460621345,"ip":"66.249.88.24","id_envio":"4190","id_empresa":"132","sg_event_id":"ZGI3MjA3NGQtYTcyZC00M2FiLTliNGMtMjBlNWFlMGU5YjBm","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4190
+ -->XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:09:34
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.0","sg_event_id":"YmRjY2UxNDktMjg2OS00NTAwLTg0YjQtNTNhMjY4NWVhYmQ5","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"ssilvac@connectus.cl","timestamp":1460621369,"id_envio":"4190","url":"http://test.connectus.cl/viewmail/index2.php?id_contacto=900198&id_envio=4190"}]
+
+ -->click
+ -->ssilvac@connectus.cl
+ -->4190
+ -->XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:10:37
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460621435,"ip":"66.249.83.254","id_envio":"4190","id_empresa":"132","sg_event_id":"YmQxZWY0ZDktZWQ0OC00ODFjLWI0ZGEtMWY5NzBlNzczM2Yx","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4190
+ -->XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:11:00
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.0","sg_event_id":"ZmY5YmY0ZDAtNjhiMC00YWE0LWI3MjMtNzhiY2Q3M2U5OTUx","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"ssilvac@connectus.cl","timestamp":1460621456,"id_envio":"4190","url":"http://test.connectus.cl/viewmail/index2.php?id_contacto=900198&id_envio=4190"}]
+
+ -->click
+ -->ssilvac@connectus.cl
+ -->4190
+ -->XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:11:28
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460621485,"ip":"66.249.88.46","id_envio":"4190","id_empresa":"132","sg_event_id":"OTFmNTY5NTUtOGIxNy00YWEyLWJiNDMtMjYyYTNiYjk0ZGI1","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4190
+ -->XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:11:30
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1","sg_event_id":"ZjRlODU5MDAtOGU5My00NTMwLTkwNDktNjBhNGRiYjFmZDc5","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"sebasilvac88@gmail.com","timestamp":1460621487,"id_envio":"4190","url":"http://test.connectus.cl/viewmail/index2.php?id_contacto=900199&id_envio=4190"}]
+
+ -->click
+ -->sebasilvac88@gmail.com
+ -->4190
+ -->XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:14:35
+ -->[{"ip":"66.102.8.154","id_empresa":"132","sg_event_id":"ZmY5NTAzZTktODMxOC00MTUwLTgwNGYtMGUxZjcxOGEwYzhh","sg_message_id":"u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","id_detalle_envio":"2345","event":"open","email":"sebasilvac88@gmail.com","timestamp":1460620468,"id_envio":"4188"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4188
+ -->u46ms8GxS7CtNxTx_SeLuA.filter0654p1mdw1.9864.570F4C0714.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:26:42
+ -->[{"id_empresa":"132","sg_event_id":"WGXImDLUT4e7iN4G-XotfA","sg_message_id":"Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.0","event":"processed","email":"ssilvac@connectus.cl","smtp-id":"<Z39FCoq8Qomc1Urf6RiRCA@ismtpd0018p1sin1.sendgrid.net>","timestamp":1460622401,"id_envio":"12880"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:26:47
+ -->[{"ip":"167.89.17.173","response":"250 2.0.0 OK 1460622401 v18si6303759pfi.211 - gsmtp ","id_empresa":"132","sg_event_id":"WTBehrr2Q9ObiQ7SKf8XFw","sg_message_id":"Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1","tls":1,"event":"delivered","email":"sebasilvac88@gmail.com","timestamp":1460622401,"smtp-id":"<Z39FCoq8Qomc1Urf6RiRCA@ismtpd0018p1sin1.sendgrid.net>","id_envio":"12880"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:26:53
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460622412,"ip":"66.249.88.35","id_envio":"12880","id_empresa":"132","sg_event_id":"M2E3N2RiN2YtY2ExNy00N2FmLWI3NDAtNzJiMTI0YTY3MjQ4","sg_message_id":"Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12880
+ -->Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:27:39
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460622455,"ip":"66.102.8.154","id_envio":"12880","id_empresa":"132","sg_event_id":"MWUzNGVlZjItZDBjNi00NjI4LWFmYjYtZGE1NjMwYjUwZGVm","sg_message_id":"Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12880
+ -->Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:27:42
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460622457,"ip":"66.249.88.24","id_envio":"12880","id_empresa":"132","sg_event_id":"NDNiYTkxYTEtYWEzOS00MTUxLWE4ZmQtYmFjYmM2ZjNhZWZh","sg_message_id":"Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12880
+ -->Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:28:37
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460622512,"ip":"66.249.83.251","id_envio":"12880","id_empresa":"132","sg_event_id":"MDc4NmZiNDktMGQ1Yi00NGE3LTk5MTQtYzAwMjdlMGU5NDQ0","sg_message_id":"Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12880
+ -->Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:28:40
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1","sg_event_id":"MGI3ZGM5YmEtZjVlMS00MDdjLTlmMDUtZjk4YzIwOTZlZGRi","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"sebasilvac88@gmail.com","timestamp":1460622517,"id_envio":"12880","url":"http://connectus.cl/viewmail/index2.php?id_contacto=848464&id_envio=12880"}]
+
+ -->click
+ -->sebasilvac88@gmail.com
+ -->12880
+ -->Z39FCoq8Qomc1Urf6RiRCA.filter0159p1las1.32057.570F544010.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:31:19
+ -->[{"ip":"167.89.24.164","response":"error dialing remote address: dial tcp 104.27.139.186:25: i/o timeout","sg_event_id":"AIgXVjS1Q7ic8-_Qb2313A","sg_message_id":"e5paO7H7RNaWJQyP_-uRnA.filter0424p1mdw1.18681.570E8D6F2C.0","tls":0,"event":"deferred","email":"foo@bar.com","attempt":"13","timestamp":1460622678,"smtp-id":"<e5paO7H7RNaWJQyP_-uRnA@ismtpd0006p1iad1.sendgrid.net>"}]
+
+ -->deferred
+ -->foo@bar.com
+ -->
+ -->e5paO7H7RNaWJQyP_-uRnA.filter0424p1mdw1.18681.570E8D6F2C.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:32:40
+ -->[{"id_empresa":"132","sg_event_id":"93Z0kzFBTFWSKHsUEUaRDQ","sg_message_id":"nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.0","event":"processed","email":"ssilvac@connectus.cl","smtp-id":"<nsVTFC6sSqmuVGIRjUftgQ@ismtpd0013p1las1.sendgrid.net>","timestamp":1460622755,"id_envio":"12881"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:34:33
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460622870,"ip":"66.249.88.46","id_envio":"12881","id_empresa":"132","sg_event_id":"ZWJkYmIxNmMtNTlhOC00MjBmLThlMjgtZTdkMmYyNzhkYzA3","sg_message_id":"nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12881
+ -->nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:35:06
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460622902,"ip":"66.249.88.35","id_envio":"12881","id_empresa":"132","sg_event_id":"M2I5YTdmYjItYmQ1NS00YzZhLWE1NDYtNWUwMzg2YzdmNjQ1","sg_message_id":"nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12881
+ -->nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:35:09
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460622903,"ip":"66.249.83.254","id_envio":"12881","id_empresa":"132","sg_event_id":"N2ExYjZjZTMtMWRmZS00ZjExLWI0ZmQtNTM0Mzk4MmNmOTZm","sg_message_id":"nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12881
+ -->nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:35:22
+ -->[{"ip":"50.31.49.42","response":"error dialing remote address: dial tcp 104.27.138.186:25: i/o timeout","sg_event_id":"c8NwnYoTRgicQLFm5dJw1A","sg_message_id":"HkMCytK4RiiYhI4gPgBN3w.filter0463p1mdw1.1785.570E8E19A.0","tls":0,"event":"deferred","email":"foo@bar.com","attempt":"13","timestamp":1460622921,"smtp-id":"<HkMCytK4RiiYhI4gPgBN3w@ismtpd0004p1iad1.sendgrid.net>"}]
+
+ -->deferred
+ -->foo@bar.com
+ -->
+ -->HkMCytK4RiiYhI4gPgBN3w.filter0463p1mdw1.1785.570E8E19A.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:39:30
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460623167,"ip":"66.249.88.46","id_envio":"12881","id_empresa":"132","sg_event_id":"ZDZiMDNlNzUtNjJhMi00NmY1LWJiNzMtYjk2NzFmZTBmMmUx","sg_message_id":"nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12881
+ -->nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:50:58
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460623855,"ip":"66.249.83.248","id_envio":"12882","id_empresa":"132","sg_event_id":"NmJhZDYzYjMtMWU5MC00ZTkyLWE3ZGYtNDMwZDc3OWY5ZGQ5","sg_message_id":"-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12882
+ -->-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:52:58
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460623974,"ip":"66.102.8.154","id_envio":"12882","id_empresa":"132","sg_event_id":"MjYwY2JkNjEtNjQxMi00ZmVjLWFlNWEtZGIyZjA3NGY3NDBm","sg_message_id":"-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12882
+ -->-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:55:19
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460624118,"ip":"66.249.88.24","id_envio":"12882","id_empresa":"132","sg_event_id":"NTgyMzAwNzMtZGQwZS00NjBjLThjZWMtYzJiN2U0Njg5MzZl","sg_message_id":"-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12882
+ -->-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:55:29
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460624125,"ip":"66.249.88.46","id_envio":"12882","id_empresa":"132","sg_event_id":"MmFkNzEwMjgtZWQ3NC00NmI1LTk5ZTktYTE1NTQ0OTVhMmU2","sg_message_id":"-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12882
+ -->-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:56:11
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460624170,"ip":"66.249.88.35","id_envio":"12882","id_empresa":"132","sg_event_id":"ZjJmN2UwMmEtNzU4Yy00ODQ2LWFlZDgtYjNiOGM1MDg3MDhm","sg_message_id":"-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12882
+ -->-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:56:38
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460624193,"ip":"66.249.83.248","id_envio":"4190","id_empresa":"132","sg_event_id":"NzU3OTg0OTQtYmQ2Ny00MDgyLTg0YTgtNDlmMTg2Yzk3OWYy","sg_message_id":"XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->4190
+ -->XsYCo29iStO9-V4s288KRg.filter0210p1las1.6167.570F50154.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 5:58:03
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460624277,"ip":"66.249.88.35","id_envio":"12882","id_empresa":"132","sg_event_id":"ZTc2ZWU5MmItOTdiYy00ZWRkLWIzOGItNzJmNmViZWU0Y2Ix","sg_message_id":"-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12882
+ -->-bh8G6F5Q5Ogp8DIf1fnjA.filter0475p1mdw1.27881.570F59C63B.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:21:12
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460625670,"ip":"66.249.83.251","id_envio":"12885","id_empresa":"132","sg_event_id":"MDdlYTkwYzktMmY5MC00Y2RhLWFjNDMtYzI5YjNhN2Y4N2Ey","sg_message_id":"Hzo06rQdTx2H89KSkyapIA.filter0129p1las1.26159.570F60A93.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12885
+ -->Hzo06rQdTx2H89KSkyapIA.filter0129p1las1.26159.570F60A93.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:21:16
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460625670,"ip":"66.102.8.142","id_envio":"12884","id_empresa":"132","sg_event_id":"MDJmOGJkZTQtMGU4Ni00NWRiLWFmM2YtN2YwYTcxYjkyYmI1","sg_message_id":"JUjavoXDQ_60W66nRnJ6WQ.filter0044p1las1.7175.570F5FAB1D.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12884
+ -->JUjavoXDQ_60W66nRnJ6WQ.filter0044p1las1.7175.570F5FAB1D.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:21:31
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460625689,"ip":"66.249.88.46","id_envio":"12881","id_empresa":"132","sg_event_id":"YTQ0NjBjODgtYzIyNy00OTNkLTlmMmUtYmFhMGJiYTEwYzU1","sg_message_id":"nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12881
+ -->nsVTFC6sSqmuVGIRjUftgQ.filter0036p1las1.31692.570F55A118.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:22:41
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460625756,"ip":"66.249.83.254","id_envio":"12885","id_empresa":"132","sg_event_id":"YmY1NTg1NGYtNjY5Ni00MzMxLThkZDQtZGZhYmU2M2ZlOWY2","sg_message_id":"Hzo06rQdTx2H89KSkyapIA.filter0129p1las1.26159.570F60A93.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12885
+ -->Hzo06rQdTx2H89KSkyapIA.filter0129p1las1.26159.570F60A93.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:24:35
+ -->[{"id_empresa":"132","sg_event_id":"aJH7aVAVQSm4jM_C_INWRQ","sg_message_id":"R1TT3gTIT6yrgFMuS-4TOw.filter0028p1las1.22814.570F61CE9.0","event":"processed","email":"ssilvac@connectus.cl","smtp-id":"<R1TT3gTIT6yrgFMuS-4TOw@ismtpd0018p1sin1.sendgrid.net>","timestamp":1460625871,"id_envio":"12886"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:25:34
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460625927,"ip":"66.249.83.251","id_envio":"12886","id_empresa":"132","sg_event_id":"ZjUyZTJjNWEtOGRiNC00NDU4LWFmZTQtZjIxNTg1NTJkZTkx","sg_message_id":"R1TT3gTIT6yrgFMuS-4TOw.filter0028p1las1.22814.570F61CE9.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12886
+ -->R1TT3gTIT6yrgFMuS-4TOw.filter0028p1las1.22814.570F61CE9.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:30:47
+ -->[{"id_empresa":"132","sg_event_id":"pmQ_ytCFSS6jWHoIvw5fkA","sg_message_id":"BSfKJGJYRFC8e7o1pAy2SA.filter0431p1mdw1.26128.570F6343C.0","event":"processed","email":"ssilvac@connectus.cl","smtp-id":"<BSfKJGJYRFC8e7o1pAy2SA@ismtpd0006p1iad1.sendgrid.net>","timestamp":1460626244,"id_envio":"12887"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:32:46
+ -->[{"ip":"50.31.49.41","response":"250 2.0.0 OK 1460626365 202si4093117ioo.53 - gsmtp ","id_empresa":"132","sg_event_id":"E9WLFWaYQOq0uTwbk1NiWA","sg_message_id":"4aUsC58CSJuroIJjteXUEQ.filter0571p1mdw1.8155.570F63BB5.0","tls":1,"event":"delivered","email":"ssilvac@connectus.cl","timestamp":1460626365,"smtp-id":"<4aUsC58CSJuroIJjteXUEQ@ismtpd0004p1iad1.sendgrid.net>","id_envio":"12888"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:33:07
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460626386,"ip":"66.249.83.248","id_envio":"12888","id_empresa":"132","sg_event_id":"NWYwOGI4ZDItNDBkNC00OTg3LTlkZDItYTUwZWEyNjYwMTU0","sg_message_id":"4aUsC58CSJuroIJjteXUEQ.filter0571p1mdw1.8155.570F63BB5.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12888
+ -->4aUsC58CSJuroIJjteXUEQ.filter0571p1mdw1.8155.570F63BB5.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:33:49
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460626425,"ip":"66.102.8.142","id_envio":"12887","id_empresa":"132","sg_event_id":"YjNmMDA0ODQtNjBhYS00OTU3LTlhMjItYTdkZmI2NDM3YjY2","sg_message_id":"BSfKJGJYRFC8e7o1pAy2SA.filter0431p1mdw1.26128.570F6343C.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12887
+ -->BSfKJGJYRFC8e7o1pAy2SA.filter0431p1mdw1.26128.570F6343C.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:37:33
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460626648,"ip":"66.249.83.248","id_envio":"12889","id_empresa":"132","sg_event_id":"ZTVjMDYyNzMtODE1NC00NzBjLTlhNTMtMDc0NjJlYTQ1OGRi","sg_message_id":"NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12889
+ -->NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 6:38:19
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460626697,"ip":"66.249.83.251","id_envio":"12889","id_empresa":"132","sg_event_id":"MjlmYjIxMjktY2I4MS00YzhkLTk3NjAtZGU3NWM1MTFiM2Y0","sg_message_id":"NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12889
+ -->NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 8:31:24
+ -->[{"id_empresa":"203","sg_event_id":"8mCcn4dqSy6q6-7FU9Sfmw","sg_message_id":"khDjZnRjTDi7TfIlCiTX-A.filter0588p1mdw1.3556.570F7F8515.0","id_detalle_envio":"485683","event":"processed","email":"altamat@gmail.com","smtp-id":"<khDjZnRjTDi7TfIlCiTX-A@ismtpd0005p1iad1.sendgrid.net>","timestamp":1460633478,"id_envio":"12890"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 8:31:44
+ -->[{"ip":"201.220.244.210","id_empresa":"203","sg_event_id":"NmExYWNmMTctZDg3NS00YWM1LWI4MDUtN2UwNzUxMWQ2NTkw","sg_message_id":"khDjZnRjTDi7TfIlCiTX-A.filter0588p1mdw1.3556.570F7F8515.0","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15","id_detalle_envio":"485683","event":"open","email":"altamat@gmail.com","timestamp":1460633502,"id_envio":"12890"}]
+
+ -->open
+ -->altamat@gmail.com
+ -->12890
+ -->khDjZnRjTDi7TfIlCiTX-A.filter0588p1mdw1.3556.570F7F8515.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 8:32:21
+ -->[{"ip":"50.31.49.42","response":"Connection timed out","sg_event_id":"Z96YE90RT72fcgHRXBg08g","sg_message_id":"e5paO7H7RNaWJQyP_-uRnA.filter0424p1mdw1.18681.570E8D6F2C.0","tls":0,"event":"deferred","email":"foo@bar.com","attempt":"14","timestamp":1460633540,"smtp-id":"<e5paO7H7RNaWJQyP_-uRnA@ismtpd0006p1iad1.sendgrid.net>"}]
+
+ -->deferred
+ -->foo@bar.com
+ -->
+ -->e5paO7H7RNaWJQyP_-uRnA.filter0424p1mdw1.18681.570E8D6F2C.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:04:33
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460642668,"ip":"66.249.83.248","id_envio":"12889","id_empresa":"132","sg_event_id":"N2NmNzcyOTktMGNiNy00ODNmLTlhYTAtM2E0NDlkYjkwM2U2","sg_message_id":"NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12889
+ -->NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:05:02
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.1","sg_event_id":"ZGMzN2VjYWMtZDFlNi00N2JlLWE5YzktOWZjYWM4ODgzOWFm","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"sebasilvac88@gmail.com","timestamp":1460642671,"id_envio":"12889","url":"http://connectus.cl/viewmail/index2.php?id_contacto=848464&id_envio=12889"}]
+
+ -->click
+ -->sebasilvac88@gmail.com
+ -->12889
+ -->NG6LtBhaQfuDopp8xQcK8Q.filter0047p1las1.31271.570F647321.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:11:22
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460643078,"ip":"66.249.83.248","id_envio":"12912","id_empresa":"132","sg_event_id":"OTU0MjZmNGEtYzM4Yy00MTUyLWFhMGMtMjIxNDEzYTFlMDky","sg_message_id":"SN4fKOLRT_ec9YVGK8uK-g.filter0158p1las1.5654.570FA4FE27.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12912
+ -->SN4fKOLRT_ec9YVGK8uK-g.filter0158p1las1.5654.570FA4FE27.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:13:20
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460643198,"ip":"66.249.88.24","id_envio":"12912","id_empresa":"132","sg_event_id":"Y2FiNzE3OTAtYzUzNi00Nzk0LThmY2EtMzA3NDhhYzVjNGU4","sg_message_id":"SN4fKOLRT_ec9YVGK8uK-g.filter0158p1las1.5654.570FA4FE27.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12912
+ -->SN4fKOLRT_ec9YVGK8uK-g.filter0158p1las1.5654.570FA4FE27.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:16:43
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460643398,"ip":"66.249.83.248","id_envio":"12914","id_empresa":"132","sg_event_id":"NjFkN2FkYjYtZDY4Ni00OWI0LWI1ZmYtOGJhMTA1OWFlNGE1","sg_message_id":"yA1V-mX2SMK_n7Z4-PuyXg.filter0924p1mdw1.18767.570FA6111E.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12914
+ -->yA1V-mX2SMK_n7Z4-PuyXg.filter0924p1mdw1.18767.570FA6111E.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:18:50
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460643524,"ip":"66.249.88.46","id_envio":"12914","id_empresa":"132","sg_event_id":"YTc3NWI3Y2YtYjEzMS00OWExLTg3OTUtZTAzMmM1OGZlMjc5","sg_message_id":"yA1V-mX2SMK_n7Z4-PuyXg.filter0924p1mdw1.18767.570FA6111E.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12914
+ -->yA1V-mX2SMK_n7Z4-PuyXg.filter0924p1mdw1.18767.570FA6111E.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:20:14
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"yA1V-mX2SMK_n7Z4-PuyXg.filter0924p1mdw1.18767.570FA6111E.1","sg_event_id":"MWRkOGIwYWMtMWQxNy00ODQzLThlODMtYzk3YTExNTJkMjI4","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"sebasilvac88@gmail.com","timestamp":1460643621,"id_envio":"12914","url":"http://connectus.cl/viewmail/index2.php?id_contacto=848464&id_envio=12914"}]
+
+ -->click
+ -->sebasilvac88@gmail.com
+ -->12914
+ -->yA1V-mX2SMK_n7Z4-PuyXg.filter0924p1mdw1.18767.570FA6111E.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:47:10
+ -->[{"id_empresa":"132","sg_event_id":"a6EsBQdwTaKFGGU4i8RMdQ","sg_message_id":"HJKj3LpfSqaAjpGr9XKGAA.filter0116p1las1.11498.570FAD681.0","event":"processed","email":"ssilvac@connectus.cl","smtp-id":"<HJKj3LpfSqaAjpGr9XKGAA@ismtpd0019p1sin1.sendgrid.net>","timestamp":1460645226,"id_envio":"12926"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:48:19
+ -->[{"email":"sebasilvac88@gmail.com","timestamp":1460645295,"ip":"66.249.88.24","id_envio":"12926","id_empresa":"132","sg_event_id":"MTgzZmIyMzMtMzhiNy00N2FmLTk3MzUtMGQxNjA2ZjExY2Fl","sg_message_id":"HJKj3LpfSqaAjpGr9XKGAA.filter0116p1las1.11498.570FAD681.1","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->sebasilvac88@gmail.com
+ -->12926
+ -->HJKj3LpfSqaAjpGr9XKGAA.filter0116p1las1.11498.570FAD681.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 11:58:31
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"81MtORVRSrCHD5-hGLz4-A.filter0470p1mdw1.22740.570FAFBF6C.1","sg_event_id":"MDZkZDdhYTUtMTkzNy00M2NmLTgxZWQtOWU2NTcwOTNjOTVl","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"sebasilvac88@gmail.com","timestamp":1460645908,"id_envio":"12927","url":"http://connectus.cl/viewmail/index2.php?id_contacto=848464&id_envio=12927"}]
+
+ -->click
+ -->sebasilvac88@gmail.com
+ -->12927
+ -->81MtORVRSrCHD5-hGLz4-A.filter0470p1mdw1.22740.570FAFBF6C.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 12:08:14
+ -->[{"id_empresa":"132","sg_event_id":"jarP4a6qTtmbxmPT84anCQ","sg_message_id":"VWb7BOISTrKZhRVEdja1Aw.filter0192p1las1.24199.570FB25420.0","event":"processed","email":"ssilvac@connectus.cl","smtp-id":"<VWb7BOISTrKZhRVEdja1Aw@ismtpd0017p1sin1.sendgrid.net>","timestamp":1460646485,"id_envio":"12928"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 12:11:11
+ -->[{"email":"ssilvac@connectus.cl","timestamp":1460646666,"ip":"66.102.8.142","id_envio":"12928","id_empresa":"132","sg_event_id":"ZjI0OGNjOWUtMzliOS00ZTdhLWIwZWItMTI2YTMzNWJiM2Mz","sg_message_id":"VWb7BOISTrKZhRVEdja1Aw.filter0192p1las1.24199.570FB25420.0","useragent":"Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)","event":"open"}]
+
+ -->open
+ -->ssilvac@connectus.cl
+ -->12928
+ -->VWb7BOISTrKZhRVEdja1Aw.filter0192p1las1.24199.570FB25420.0
+Ejecucion terminada
+
+
+Inicio 2016-04-14 12:11:15
+ -->[{"ip":"201.241.106.114","id_empresa":"132","sg_message_id":"VWb7BOISTrKZhRVEdja1Aw.filter0192p1las1.24199.570FB25420.1","sg_event_id":"ZWUwMDdlOWItYzJmNC00OTJjLWI0NGEtZTNkNTE1YWMzZTll","useragent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36","event":"click","url_offset":{"index":0,"type":"html"},"email":"sebasilvac88@gmail.com","timestamp":1460646673,"id_envio":"12928","url":"http://connectus.cl/viewmail/index2.php?id_contacto=848464&id_envio=12928"}]
+
+ -->click
+ -->sebasilvac88@gmail.com
+ -->12928
+ -->VWb7BOISTrKZhRVEdja1Aw.filter0192p1las1.24199.570FB25420.1
+Ejecucion terminada
+
+
+Inicio 2016-04-14 14:10:11
+ -->[{"id_empresa":"112","sg_event_id":"f4qoLEpARrOBP1dJLqMFYA","sg_message_id":"6ntnS0CPRRec_Xd3YkQexw.filter0198p1las1.16626.570FCEED16.0","event":"processed","email":"dmedelf@yahoo.com","smtp-id":"<6ntnS0CPRRec_Xd3YkQexw@ismtpd0008p1las1.sendgrid.net>","timestamp":1460653807,"id_envio":"12942"},
+
+Ejecucion terminada
+
+
+Inicio 2016-04-14 14:23:46
+ -->[{"email":"paola.carort@gmail.com","timestamp":1460654621,"ip":"190.47.56.4","id_envio":"12942","id_empresa":"112","sg_event_id":"MTAxMDM2Y2UtMjRmYy00ZjU1LWE3ODctMmU5NmJlZTMxMDcy","sg_message_id":"6ntnS0CPRRec_Xd3YkQexw.filter0198p1las1.16626.570FCEED16.13","useragent":"Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.0; Trident/3.1; IEMobile/7.0; NOKIA; Lumia 925)","event":"open"}]
+
+ -->open
+ -->paola.carort@gmail.com
+ -->12942
+ -->6ntnS0CPRRec_Xd3YkQexw.filter0198p1las1.16626.570FCEED16.13
+Ejecucion terminada
+
+

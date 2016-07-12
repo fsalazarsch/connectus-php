@@ -1,0 +1,33 @@
+[14-Apr-2016 02:31:05 America/Santiago] PHP Fatal error:  Cannot redeclare class Conector in /home/connectus/public_html/test/connectus/MAIL/Models/Conector.php on line 57
+[14-Apr-2016 02:32:22 America/Santiago] PHP Fatal error:  Cannot redeclare class Conector in /home/connectus/public_html/test/connectus/MAIL/Models/Conector.php on line 57
+[14-Apr-2016 02:34:36 America/Santiago] PHP Fatal error:  Cannot redeclare class Conector in /home/connectus/public_html/test/connectus/MAIL/Models/Conector.php on line 57
+[14-Apr-2016 02:35:12 America/Santiago] PHP Fatal error:  Cannot redeclare class Conector in /home/connectus/public_html/test/connectus/MAIL/Models/Conector.php on line 57
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:01:47 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:02:27 America/Santiago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 372
+[14-Apr-2016 03:16:14 America/Santiago] PHP Notice:  Undefined variable: var2 in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 408
+[14-Apr-2016 03:16:14 America/Santiago] PHP Notice:  Undefined variable: var2 in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 420
+[14-Apr-2016 03:16:14 America/Santiago] PHP Catchable fatal error:  Argument 1 passed to Smtpapi\Header::setSubstitutions() must be of the type array, null given, called in /home/connectus/public_html/test/connectus/libs/sendgrid/lib/SendGrid/Email.php on line 476 and defined in /home/connectus/public_html/test/connectus/libs/sendgrid/vendor/sendgrid/smtpapi/lib/Smtpapi/Header.php on line 93
+[14-Apr-2016 03:18:03 America/Santiago] PHP Notice:  Undefined variable: var2 in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 408
+[14-Apr-2016 03:19:52 America/Santiago] PHP Notice:  Undefined variable: var2 in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 408
+[14-Apr-2016 03:27:43 America/Santiago] PHP Notice:  Undefined variable: emailsArray2 in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 414
+[14-Apr-2016 03:27:43 America/Santiago] PHP Catchable fatal error:  Argument 1 passed to SendGrid\Email::setSmtpapiTos() must be of the type array, null given, called in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 414 and defined in /home/connectus/public_html/test/connectus/libs/sendgrid/lib/SendGrid/Email.php on line 97
+[14-Apr-2016 03:30:43 America/Santiago] PHP Fatal error:  Cannot redeclare class SendGrid in /home/connectus/public_html/test/connectus/libs/sendgrid/lib/SendGrid.php on line 4
+[14-Apr-2016 03:56:12 America/Santiago] PHP Parse error:  syntax error, unexpected ''terminado'' (T_CONSTANT_ENCAPSED_STRING) in /home/connectus/public_html/test/connectus/MAIL/Drivers/SendgridDriver.php on line 350

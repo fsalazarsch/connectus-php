@@ -1,0 +1,15 @@
+2015-10-08 18:33:36 - LOG UNICO!!!!
+2016-04-14 5:38:33 - -------------------------
+2016-04-14 5:38:33 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:38:33 - -------------------------
+2016-04-14 5:38:33 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:38:33 - -------------------------
+2016-04-14 5:38:33 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:50:57 - -------------------------
+2016-04-14 5:50:57 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:52:54 - -------------------------
+2016-04-14 5:52:54 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-04-14 5:52:59 - -------------------------
+2016-04-14 5:52:59 - Error - MAIL::Estado::getSuma() :42000:1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2
+2016-07-11 18:00:07 - -------------------------
+2016-07-11 18:00:07 - Error - MAIL::Parametro::get() :HY000:2006:MySQL server has gone away

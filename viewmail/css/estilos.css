@@ -1,0 +1,60 @@
+/* connectus */
+BODY
+{
+    
+    MARGIN: 0pt;
+    scrollbar-arrow-color:FFFFFF;
+  scrollbar-track-color:02356E;
+  scrollbar-shadow-color:FFFFFF;
+  scrollbar-face-color:02356E;
+  scrollbar-highlight-color:FFFFFF;
+  scrollbar-darkshadow-color:A5A5A5;
+  scrollbar-3dlight-color:A5A5A5;
+    BACKGROUND-COLOR: #EEEEEE;
+	color:#333333;
+}
+INPUT
+{
+    FONT-SIZE: 9pt
+}
+SELECT
+{
+    FONT-SIZE: 9pt
+}
+TD
+{
+    FONT-SIZE: 8pt;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, geneva, Arial, helvetica
+}
+TABLE
+{
+    BACKGROUND-COLOR: white
+}
+.boton
+{
+    font-size: 10px; 
+    background-color: #ee5603; 
+    border: 1px solid #ad4106; 
+    padding: 1
+}
+.botonformulario
+{
+    font-size: 10px; 
+    background-color: #ee5603; 
+    border: 1px solid #ad4106; 
+    padding: 1
+}
+.caja
+{
+    BORDER-RIGHT: 1px solid;
+    BORDER-TOP: 1px solid;
+    BORDER-LEFT: 1px solid;
+    BORDER-BOTTOM: 1px solid
+}
+PRE
+{
+    FONT-SIZE: 8pt;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, geneva, Arial, helvetica
+}

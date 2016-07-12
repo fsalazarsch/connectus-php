@@ -1,0 +1,159 @@
+<?php echo $header; ?><?php echo $column_left; ?>
+<div id="content">
+  <div class="page-header">
+    <div class="container-fluid">
+      <div class="pull-right">
+      <a id="crear" data-target="#myModal" data-toggle="modal" title="<?php echo $button_add; ?>" class="btn btn-primary" onclick="$('input[id*=\'mtxts\']').prop('value', '');"><i class="fa fa-plus" ></i></a> 
+      <a href="<?php echo $refresh; ?>" data-toggle="tooltip" title="<?php echo $button_rebuild; ?>" class="btn btn-default"><i class="fa fa-refresh"></i></a>
+      <button type="button" data-toggle="tooltip" title="<?php echo $button_delete; ?>" class="btn btn-danger" onclick="confirm('<?php echo $text_confirm; ?>') ? $('#form-category').submit() : false;"><i class="fa fa-trash-o"></i></button>
+      </div>
+      <h1><?php echo $heading_title; ?></h1>
+      <ul class="breadcrumb">
+        <?php foreach ($breadcrumbs as $breadcrumb) { ?>
+        <li><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a></li>
+        <?php } ?>
+      </ul>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <?php if ($error_warning) { ?>
+    <div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> <?php echo $error_warning; ?>
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+    <?php } ?>
+    <?php if ($success) { ?>
+    <div class="alert alert-success"><i class="fa fa-check-circle"></i> <?php echo $success; ?>
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+    <?php } ?>
+    <!--Panel detalle de lista-->
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-list"></i><?php echo $text_detalle_lista;?></h3>
+      </div>
+      <div class="panel-body">
+        <div class="table-responsive">
+          <table id="info_lista" class="table table-bordered table-hover">
+            <tr class="blackground">
+              <td><?php echo $text_nombre ;?></td><td><?php echo $text_num_reg ;?></td><td><?php echo $text_creacion;?></td><td><?php echo $text_actualizacion;?></td><!--<td></td>-->
+            </tr>
+            <tr id="tr_lista_info">
+              <td data-toggle="tooltip" data-placement="bottom" title="Click para editar nombre de lista" id="td_nombre" contenteditable><?php echo html_entity_decode($nombre) ;?></td><td><?php echo $num_reg ;?></td><td><?php echo $creacion;?></td><td><?php echo $actualizacion;?></td>
+              <!--  <td><a name="edit_nombre_lista" data-toggle="tooltip" title="Cambiar nombre" class="btn btn-primary pull-right"><i class="fa fa-pencil"></i></a></td>-->
+            </tr>
+          </table>
+        </div>    
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading"> 
+        <h3 class="panel-title"><i class="fa fa-list"></i> <?php echo $text_list; ?></h3>        
+      </div>
+      <div class="panel-body">       
+        <form action="<?php echo $delete; ?>" method="post" enctype="multipart/form-data" id="form-category">
+          <div class="table-responsive">
+            <table class="table table-bordered table-hover" id="table_edit">
+              <thead>
+                <tr>
+                  <td style="width: 1px;" class="text-center"><input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" /></td>
+                  <?php foreach ($contactos['nombre_columnas'] as $nombre) {
+                      ?><th><a href="<?php echo $nombre[1] ?>" class="<?php echo strtolower($order); ?>"><?php echo $nombre[0]; ?></a></th><?php
+                  }?>
+                  <td><?php echo $column_action; ?></td>
+                </tr>
+              </thead>
+              <tbody>
+                <?php if ($contactos['valores']) { ?>
+                <?php foreach ($contactos['valores'] as $contacto) { ?>
+                  <tr>
+                  <!--carga de control-->
+                  <td class="text-center"><?php if (in_array($contacto['id_contacto'], $selected)) { ?>
+                        <input type="checkbox" name="selected[]" value="<?php echo $contacto['id_contacto']; ?>" checked="checked" />
+                        <?php } else { ?>
+                        <input type="checkbox" name="selected[]" value="<?php echo $contacto['id_contacto']; ?>" />
+                        <?php } ?></td> 
+                  <!--cargar los campos de la lista y sus respectivos valores-->
+                  <?php foreach ($contacto as $campo => $valor) { 
+                    if($campo!='id_contacto'){?> 
+                      <td class="text-left"><?php echo $valor; ?></td>
+                    <?php } ?>
+                  <?php } ?>
+                  <!--carga de botones de accion de cada row de la tabla-->
+                  <div class="pull-right"></div>
+                      <td><a type="button" id="<?php echo $contacto['id_contacto']; ?>" value="<?php echo $contacto['id_contacto']; ?>"  data-toggle="modal" data-target="#updateModal" title="<?php echo $button_edit; ?>"  class="btn btn-primary fa fa-pencil" ></a></td>
+                  </tr>
+                <?php } ?>
+                <?php } else { ?>
+                <tr>
+                  <td class="text-center" colspan="4"><?php echo $text_no_results; ?></td>
+                </tr>
+                <?php } ?>
+              </tbody>
+            </table>
+          </div>
+        </form>
+        <div class="row">
+          <div class="col-sm-6 text-left"><?php echo $pagination; ?></div>
+          <div class="col-sm-6 text-right"><?php echo $results; ?></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- Modal para crear contactos-->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header" style="background: #4eaefa; color: white; font-weight: bold;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h3 class="modal-title" id="myModalLabel"><?php echo $modal_title; ?></h3>
+      </div>
+      <form action="<?php echo $maddaction;?>" id="FormularioModal" method="POST">
+        <div class="modal-body" id="contenedor">
+           <?php for ($i = 0; $i < count($form['campo']); $i++) { 
+            if($form['campo'][$i]=='email'){
+                ?> <label class='col-sm-2 control-label'><?php echo $form['glosa'][$i];?></label ><div class='col-sm-10'><input id="mtxts[]" type='text' class='form-control' required value='' name='<?php echo $form['campo'][$i];?>' /><div id="txtval"></div><br></div><?php
+              }else{
+                ?>
+                <label class='col-sm-2 control-label'><?php echo $form['glosa'][$i];?></label ><div class='col-sm-10'><input id="mtxts[]" type='text' class='form-control' required value='' name='<?php echo $form['campo'][$i];?>' /><br></div>
+                <? }?>
+             
+          <? } ?>
+        </div>
+        <div class="modal-footer">
+          <button type="button" id="mcan" class="btn btn-default" data-dismiss="modal"><?php echo $btn_cancel;?></button>
+          <input type="submit" id="madd" class="btn btn-primary" value="<?php echo $btn_guardar;?>">
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal para editar contactos-->
+<div class="modal fade" id="updateModal" tabindex="-1" role="dialog" aria-labelledby="myUpdateModal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header" style="background: #4eaefa; color: white; font-weight: bold;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h3 class="modal-title" id="myModalLabel"><?php echo $modal_title; ?></h3>
+      </div>
+      <form  action="<?php echo $action;?>" id="updateForm" method="POST">
+        <div class="modal-body" id="actualizar">
+          
+        </div>
+        <div class="modal-footer">
+          <button type="button" id="mcan" class="btn btn-default" data-dismiss="modal"><?php echo $btn_cancel;?></button>
+          <input type="submit" id="mact" class="btn btn-primary" value="<?php echo $btn_actualizar_contacto;?>">
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+
+  <!--Editar nombre de la lista-->
+<script type="text/javascript">
+  $('#td_nombre').focusout(function(){
+    var id_lista = <?php echo $id_lista;?>;
+    var url = 'index.php?route=contactos/lista_

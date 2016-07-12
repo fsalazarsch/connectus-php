@@ -1,0 +1,331 @@
+2015-12-18 18:44:02 - -------------------------
+2015-12-18 18:44:02 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365306',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2381, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-18 18:44:03 - -------------------------
+2015-12-18 18:44:03 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365307',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2381, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-18 18:44:04 - -------------------------
+2015-12-18 18:44:04 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365308',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2381, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-18 18:44:05 - -------------------------
+2015-12-18 18:44:05 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365309',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2381, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-18 18:44:06 - -------------------------
+2015-12-18 18:44:06 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365310',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2381, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-18 18:44:06 - -------------------------
+2015-12-18 18:44:06 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '0',estado = 'INVALID_DNS',fecha = NOW(),destinatario =  '56911111111',id_envio = 2381, empresa_telefono_receptor = 'SIN EMPRESA'
+2015-12-18 18:50:02 - -------------------------
+2015-12-18 18:50:02 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365383',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2382, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-18 18:50:03 - -------------------------
+2015-12-18 18:50:03 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365385',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2382, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-18 18:50:03 - -------------------------
+2015-12-18 18:50:03 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '0',estado = 'INVALID_DNS',fecha = NOW(),destinatario =  '56911111111',id_envio = 2382, empresa_telefono_receptor = 'SIN EMPRESA'
+2015-12-18 18:50:03 - -------------------------
+2015-12-18 18:50:03 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '0',estado = 'INVALID_DNS',fecha = NOW(),destinatario =  '1111',id_envio = 2382, empresa_telefono_receptor = 'SIN EMPRESA'
+2015-12-18 18:50:03 - -------------------------
+2015-12-18 18:50:03 - ADD DETALLE - SQL:INSERT INTO detalle_envio SET  id_respuesta_servidor =  '157365386',estado = 'en proceso',fecha = NOW(),destinatario =  '56982610778',id_envio = 2382, empresa_telefono_receptor = 'ENTEL PCS TELECOMUNICACIONES S.A.'
+2015-12-20 23:56:02 - -------------------------
+2015-12-20 23:56:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157397327')
+#3 {main}
+2015-12-20 23:56:02 - -------------------------
+2015-12-20 23:56:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157397321')
+#3 {main}
+2015-12-20 23:56:02 - -------------------------
+2015-12-20 23:56:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157397297')
+#3 {main}
+2015-12-20 23:56:02 - -------------------------
+2015-12-20 23:56:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157397270')
+#3 {main}
+2015-12-20 23:56:02 - -------------------------
+2015-12-20 23:56:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157397268')
+#3 {main}
+2015-12-20 23:56:02 - -------------------------
+2015-12-20 23:56:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157397239')
+#3 {main}
+2015-12-20 23:56:02 - -------------------------
+2015-12-20 23:56:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157380705')
+#3 {main}
+2015-12-24 22:21:03 - -------------------------
+2015-12-24 22:21:03 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-24 22:25:41 - -------------------------
+2015-12-24 22:25:41 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920422')
+#3 {main}
+2015-12-24 22:31:30 - -------------------------
+2015-12-24 22:31:30 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157912796')
+#3 {main}
+2015-12-24 22:35:03 - -------------------------
+2015-12-24 22:35:03 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920422')
+#3 {main}
+2015-12-24 22:43:06 - -------------------------
+2015-12-24 22:43:06 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920419')
+#3 {main}
+2015-12-24 22:59:07 - -------------------------
+2015-12-24 22:59:07 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920419')
+#3 {main}
+2015-12-24 23:09:05 - -------------------------
+2015-12-24 23:09:05 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921808')
+#3 {main}
+2015-12-24 23:10:10 - -------------------------
+2015-12-24 23:10:10 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157912812')
+#3 {main}
+2015-12-24 23:13:36 - -------------------------
+2015-12-24 23:13:36 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157876627')
+#3 {main}
+2015-12-24 23:17:04 - -------------------------
+2015-12-24 23:17:04 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157912812')
+#3 {main}
+2015-12-24 23:27:14 - -------------------------
+2015-12-24 23:27:14 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157876295')
+#3 {main}
+2015-12-24 23:39:21 - -------------------------
+2015-12-24 23:39:21 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157912812')
+#3 {main}
+2015-12-24 23:43:02 - -------------------------
+2015-12-24 23:43:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-24 23:55:03 - -------------------------
+2015-12-24 23:55:03 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-24 23:57:02 - -------------------------
+2015-12-24 23:57:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-25 0:07:06 - -------------------------
+2015-12-25 0:07:06 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920419')
+#3 {main}
+2015-12-25 0:08:06 - -------------------------
+2015-12-25 0:08:06 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157912812')
+#3 {main}
+2015-12-25 0:19:02 - -------------------------
+2015-12-25 0:19:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-25 0:20:02 - -------------------------
+2015-12-25 0:20:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921808')
+#3 {main}
+2015-12-25 0:27:03 - -------------------------
+2015-12-25 0:27:03 - ERROR getMsgStatusById - Error:Error Fetching http headers - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-25 0:28:10 - -------------------------
+2015-12-25 0:28:10 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920422')
+#3 {main}
+2015-12-25 0:37:30 - -------------------------
+2015-12-25 0:37:30 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920419')
+#3 {main}
+2015-12-25 0:45:10 - -------------------------
+2015-12-25 0:45:10 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921808')
+#3 {main}
+2015-12-25 0:47:13 - -------------------------
+2015-12-25 0:47:13 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157912796')
+#3 {main}
+2015-12-25 0:53:02 - -------------------------
+2015-12-25 0:53:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-25 0:55:02 - -------------------------
+2015-12-25 0:55:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2015-12-25 0:56:09 - -------------------------
+2015-12-25 0:56:09 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920419')
+#3 {main}
+2015-12-25 0:57:07 - -------------------------
+2015-12-25 0:57:07 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157920419')
+#3 {main}
+2015-12-25 0:57:11 - -------------------------
+2015-12-25 0:57:11 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157912796')
+#3 {main}
+2015-12-25 0:59:03 - -------------------------
+2015-12-25 0:59:03 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('157921820')
+#3 {main}
+2016-01-05 4:04:15 - -------------------------
+2016-01-05 4:04:15 - ERROR getMsgStatusById - Error:Internal Error - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#1 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('158841196')
+#2 {main}
+2016-01-14 23:47:02 - -------------------------
+2016-01-14 23:47:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160193594')
+#3 {main}
+2016-01-15 0:05:02 - -------------------------
+2016-01-15 0:05:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160193594')
+#3 {main}
+2016-01-15 0:29:02 - -------------------------
+2016-01-15 0:29:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160193594')
+#3 {main}
+2016-01-15 0:31:02 - -------------------------
+2016-01-15 0:31:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160193594')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405693')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405684')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405682')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405678')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405677')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405675')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405670')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405665')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405662')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405648')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405640')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405639')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405603')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160405602')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160377163')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160377143')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160377107')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160341746')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160341601')
+#3 {main}
+2016-01-17 11:58:02 - -------------------------
+2016-01-17 11:58:02 - ERROR getMsgStatusById - Error:Could not connect to host - /home/connectus/public_html/connectus/SmsController.php - line: 570 - Trace:#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://smpp2.te...', 'enquireMsgStatu...', 1, 0)
+#1 /home/connectus/public_html/connectus/SmsController.php(570): SoapClient->__soapCall('enquireMsgStatu...', Array)
+#2 /home/connectus/public_html/connectus/refresh_estados_sms.php(56): SmsController->getMsgStatusById('160341594')
+#3 {main}

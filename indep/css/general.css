@@ -1,0 +1,20 @@
+body {margin: 0px; background-color: #ffffff; font-family: 'Open Sans', sans-serif; font-size: 14px; font-weight: 400; }
+div {text-align: center; margin: auto;}
+#Header { background-color: #25a3dd; padding: 30px; }
+#Title { padding: 20px; }
+h1 { font-family: 'Open Sans', sans-serif; font-size: 20px; font-weight: 400; color: #545353; text-align: center; text-transform: uppercase; }
+h2 { font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 400; color: #545353; text-align: center; text-transform: uppercase; }
+#LogoClient { margin-top: 0px; margin-bottom: 30px; }
+hr {  border: 0; height: 0; border-top: 1px solid #cbcbcb; }
+#TextBox { background-color: #eeeded; border: 1px solid #c1c1c1; font-family: 'Open Sans', sans-serif; font-size: 12px; font-weight: 400; color: #545353; text-align: justify; padding: 10px; width: 80%;}
+#TextLink { margin-top: 30px; margin-bottom: 50px; }
+#Footer { padding-top: 30px; padding-bottom: 40px; font-family: 'Open Sans', sans-serif; font-size: 10px; font-weight: 400; color: #545353; }
+.FooterImg { margin-bottom: 10px; }
+.FooterLink { color: #545353; }
+.Footer a { color: #1f90d4; }
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: underline; color: #545353;}
+a:active {text-decoration: none;}
+.TextBlue { color: #065e92; }

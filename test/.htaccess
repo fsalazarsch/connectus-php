@@ -1,0 +1,15 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^connectus\.cl$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.connectus\.cl$
+RewriteRule ^sms$ "http\:\/\/190\.196\.5\.132\/" [R=301,L]
+
+RewriteRule ^index index.php
+RewriteRule ^sms-masivo sms.php
+RewriteRule ^mail-masivo email.php
+RewriteRule ^plataforma plataforma.php
+RewriteRule ^contacto contacto.php
+RewriteRule ^registrado registro/views/registrado.html
+RewriteRule ^confirmado registro/views/confirmado.html
+
+
+

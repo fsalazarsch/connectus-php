@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteRule ^index index.php
+RewriteRule ^sms-masivo sms.php
+RewriteRule ^email email.php
+RewriteRule ^plataforma plataforma.php
+RewriteRule ^contacto contacto.php

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dmamontov/asynctask": "~1.0.5"
+    }
+}

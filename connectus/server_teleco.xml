@@ -1,0 +1,289 @@
+<wsdl:definitions xmlns:wsa="http://schemas.xmlsoap.org/ws/2003/03/addressing" xmlns:tns="telecochile" xmlns:plink="http://schemas.xmlsoap.org/ws/2003/05/partner-link/" xmlns:xop="http://www.w3.org/2004/08/xop/include" xmlns:soap12env="http://www.w3.org/2003/05/soap-envelope/" xmlns:senc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:s0="telecoService" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:senv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap12enc="http://www.w3.org/2003/05/soap-encoding/" targetNamespace="telecochile" name="Application">
+<wsdl:types>
+<xs:schema targetNamespace="telecoService" elementFormDefault="qualified">
+<xs:complexType name="enquireResponse">
+<xs:sequence>
+<xs:element name="status" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="code" type="xs:integer" minOccurs="0" nillable="true"/>
+<xs:element name="deliverydate" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="message" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="id" type="xs:integer" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="creditsResponse">
+<xs:sequence>
+<xs:element name="code" type="xs:integer" minOccurs="0" nillable="true"/>
+<xs:element name="quota" type="xs:float" minOccurs="0" nillable="true"/>
+<xs:element name="message" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="smsMessage">
+<xs:sequence>
+<xs:element name="ani" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="id" type="xs:integer" minOccurs="0" nillable="true"/>
+<xs:element name="date" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="message" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="dnis" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="submitResponse">
+<xs:sequence>
+<xs:element name="code" type="xs:integer" minOccurs="0" nillable="true"/>
+<xs:element name="message" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="id" type="xs:integer" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="enquireResponseArray">
+<xs:sequence>
+<xs:element name="enquireResponse" type="s0:enquireResponse" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="enquireMultiResponse">
+<xs:sequence>
+<xs:element name="code" type="xs:integer" minOccurs="0" nillable="true"/>
+<xs:element name="message" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="data" type="s0:enquireResponseArray" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="smsMessageArray">
+<xs:sequence>
+<xs:element name="smsMessage" type="s0:smsMessage" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="receivedResponse">
+<xs:sequence>
+<xs:element name="status" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="code" type="xs:integer" minOccurs="0" nillable="true"/>
+<xs:element name="messages" type="s0:smsMessageArray" minOccurs="0" nillable="true"/>
+<xs:element name="message" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="enquireResponse" type="s0:enquireResponse"/>
+<xs:element name="creditsResponse" type="s0:creditsResponse"/>
+<xs:element name="smsMessage" type="s0:smsMessage"/>
+<xs:element name="submitResponse" type="s0:submitResponse"/>
+<xs:element name="enquireResponseArray" type="s0:enquireResponseArray"/>
+<xs:element name="enquireMultiResponse" type="s0:enquireMultiResponse"/>
+<xs:element name="smsMessageArray" type="s0:smsMessageArray"/>
+<xs:element name="receivedResponse" type="s0:receivedResponse"/>
+</xs:schema>
+<xs:schema targetNamespace="telecochile" elementFormDefault="qualified">
+<xs:import namespace="telecoService"/>
+<xs:complexType name="integerArray">
+<xs:sequence>
+<xs:element name="integer" type="xs:integer" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="checkNumber">
+<xs:sequence>
+<xs:element name="number" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="user" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="password" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="checkNumberResponse">
+<xs:sequence>
+<xs:element name="checkNumberResult" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="enquireMsgStatus">
+<xs:sequence>
+<xs:element name="clientid" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="clientpassword" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="messageId" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="getMyCredits">
+<xs:sequence>
+<xs:element name="clientid" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="clientpassword" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="getReceivedMessages">
+<xs:sequence>
+<xs:element name="clientid" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="clientpassword" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="count" type="xs:integer" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="submitMsg">
+<xs:sequence>
+<xs:element name="clientid" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="clientpassword" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="ani" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="dnis" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="message" type="xs:string" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="enquireMsgStatusMulti">
+<xs:sequence>
+<xs:element name="clientid" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="clientpassword" type="xs:string" minOccurs="0" nillable="true"/>
+<xs:element name="messages" type="tns:integerArray" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="enquireMsgStatusResponse">
+<xs:sequence>
+<xs:element name="enquireMsgStatusResult" type="s0:enquireResponse" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="getMyCreditsResponse">
+<xs:sequence>
+<xs:element name="getMyCreditsResult" type="s0:creditsResponse" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="submitMsgResponse">
+<xs:sequence>
+<xs:element name="submitMsgResult" type="s0:submitResponse" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="enquireMsgStatusMultiResponse">
+<xs:sequence>
+<xs:element name="enquireMsgStatusMultiResult" type="s0:enquireMultiResponse" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="getReceivedMessagesResponse">
+<xs:sequence>
+<xs:element name="getReceivedMessagesResult" type="s0:receivedResponse" minOccurs="0" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element name="integerArray" type="tns:integerArray"/>
+<xs:element name="checkNumber" type="tns:checkNumber"/>
+<xs:element name="checkNumberResponse" type="tns:checkNumberResponse"/>
+<xs:element name="enquireMsgStatus" type="tns:enquireMsgStatus"/>
+<xs:element name="getMyCredits" type="tns:getMyCredits"/>
+<xs:element name="getReceivedMessages" type="tns:getReceivedMessages"/>
+<xs:element name="submitMsg" type="tns:submitMsg"/>
+<xs:element name="enquireMsgStatusMulti" type="tns:enquireMsgStatusMulti"/>
+<xs:element name="enquireMsgStatusResponse" type="tns:enquireMsgStatusResponse"/>
+<xs:element name="getMyCreditsResponse" type="tns:getMyCreditsResponse"/>
+<xs:element name="submitMsgResponse" type="tns:submitMsgResponse"/>
+<xs:element name="enquireMsgStatusMultiResponse" type="tns:enquireMsgStatusMultiResponse"/>
+<xs:element name="getReceivedMessagesResponse" type="tns:getReceivedMessagesResponse"/>
+</xs:schema>
+</wsdl:types>
+<wsdl:message name="enquireMsgStatus">
+<wsdl:part name="enquireMsgStatus" element="tns:enquireMsgStatus"/>
+</wsdl:message>
+<wsdl:message name="enquireMsgStatusResponse">
+<wsdl:part name="enquireMsgStatusResponse" element="tns:enquireMsgStatusResponse"/>
+</wsdl:message>
+<wsdl:message name="enquireMsgStatusMulti">
+<wsdl:part name="enquireMsgStatusMulti" element="tns:enquireMsgStatusMulti"/>
+</wsdl:message>
+<wsdl:message name="enquireMsgStatusMultiResponse">
+<wsdl:part name="enquireMsgStatusMultiResponse" element="tns:enquireMsgStatusMultiResponse"/>
+</wsdl:message>
+<wsdl:message name="checkNumber">
+<wsdl:part name="checkNumber" element="tns:checkNumber"/>
+</wsdl:message>
+<wsdl:message name="checkNumberResponse">
+<wsdl:part name="checkNumberResponse" element="tns:checkNumberResponse"/>
+</wsdl:message>
+<wsdl:message name="submitMsg">
+<wsdl:part name="submitMsg" element="tns:submitMsg"/>
+</wsdl:message>
+<wsdl:message name="submitMsgResponse">
+<wsdl:part name="submitMsgResponse" element="tns:submitMsgResponse"/>
+</wsdl:message>
+<wsdl:message name="getMyCredits">
+<wsdl:part name="getMyCredits" element="tns:getMyCredits"/>
+</wsdl:message>
+<wsdl:message name="getMyCreditsResponse">
+<wsdl:part name="getMyCreditsResponse" element="tns:getMyCreditsResponse"/>
+</wsdl:message>
+<wsdl:message name="getReceivedMessages">
+<wsdl:part name="getReceivedMessages" element="tns:getReceivedMessages"/>
+</wsdl:message>
+<wsdl:message name="getReceivedMessagesResponse">
+<wsdl:part name="getReceivedMessagesResponse" element="tns:getReceivedMessagesResponse"/>
+</wsdl:message>
+<wsdl:service name="soap_server">
+<wsdl:port name="Application" binding="tns:Application">
+<soap:address location="http://smpp2.telecochile.cl:4046/"/>
+</wsdl:port>
+</wsdl:service>
+<wsdl:portType name="Application">
+<wsdl:operation name="enquireMsgStatus" parameterOrder="enquireMsgStatus">
+<wsdl:input name="enquireMsgStatus" message="tns:enquireMsgStatus"/>
+<wsdl:output name="enquireMsgStatusResponse" message="tns:enquireMsgStatusResponse"/>
+</wsdl:operation>
+<wsdl:operation name="enquireMsgStatusMulti" parameterOrder="enquireMsgStatusMulti">
+<wsdl:input name="enquireMsgStatusMulti" message="tns:enquireMsgStatusMulti"/>
+<wsdl:output name="enquireMsgStatusMultiResponse" message="tns:enquireMsgStatusMultiResponse"/>
+</wsdl:operation>
+<wsdl:operation name="checkNumber" parameterOrder="checkNumber">
+<wsdl:input name="checkNumber" message="tns:checkNumber"/>
+<wsdl:output name="checkNumberResponse" message="tns:checkNumberResponse"/>
+</wsdl:operation>
+<wsdl:operation name="submitMsg" parameterOrder="submitMsg">
+<wsdl:input name="submitMsg" message="tns:submitMsg"/>
+<wsdl:output name="submitMsgResponse" message="tns:submitMsgResponse"/>
+</wsdl:operation>
+<wsdl:operation name="getMyCredits" parameterOrder="getMyCredits">
+<wsdl:input name="getMyCredits" message="tns:getMyCredits"/>
+<wsdl:output name="getMyCreditsResponse" message="tns:getMyCreditsResponse"/>
+</wsdl:operation>
+<wsdl:operation name="getReceivedMessages" parameterOrder="getReceivedMessages">
+<wsdl:input name="getReceivedMessages" message="tns:getReceivedMessages"/>
+<wsdl:output name="getReceivedMessagesResponse" message="tns:getReceivedMessagesResponse"/>
+</wsdl:operation>
+</wsdl:portType>
+<wsdl:binding name="Application" type="tns:Application">
+<soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+<wsdl:operation name="enquireMsgStatus">
+<soap:operation soapAction="enquireMsgStatus" style="document"/>
+<wsdl:input name="enquireMsgStatus">
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output name="enquireMsgStatusResponse">
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="enquireMsgStatusMulti">
+<soap:operation soapAction="enquireMsgStatusMulti" style="document"/>
+<wsdl:input name="enquireMsgStatusMulti">
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output name="enquireMsgStatusMultiResponse">
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="checkNumber">
+<soap:operation soapAction="checkNumber" style="document"/>
+<wsdl:input name="checkNumber">
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output name="checkNumberResponse">
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="submitMsg">
+<soap:operation soapAction="submitMsg" style="document"/>
+<wsdl:input name="submitMsg">
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output name="submitMsgResponse">
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="getMyCredits">
+<soap:operation soapAction="getMyCredits" style="document"/>
+<wsdl:input name="getMyCredits">
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output name="getMyCreditsResponse">
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+<wsdl:operation name="getReceivedMessages">
+<soap:operation soapAction="getReceivedMessages" style="document"/>
+<wsdl:input name="getReceivedMessages">
+<soap:body use="literal"/>
+</wsdl:input>
+<wsdl:output name="getReceivedMessagesResponse">
+<soap:body use="literal"/>
+</wsdl:output>
+</wsdl:operation>
+</wsdl:binding>
+</wsdl:definitions>
