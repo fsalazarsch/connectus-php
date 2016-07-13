@@ -1,0 +1,32 @@
+#funciones sistema
+  *  *  *  *  *  root /usr/bin/php -q -f /var/www/html/connectus-php/connectus/trabajos_programados.php
+  *  *  *  *  *  root /usr/bin/php -q -f /var/www/html/connectus-php/connectus/get_sms_recibidos.php
+  */2  *  *  *  *  root /usr/bin/php -q -f /var/www/html/connectus-php/connectus/refresh_estados_sms.php
+  *  *  *  *  *  root /usr/bin/php -q -f /var/www/html/connectus-php/connectus/refresh_estados_mail.php
+  *  *  *  *  *  root /usr/bin/php -q -f /var/www/html/connectus-php/connectus/trabajos_programados_mail.php
+
+#funciones test
+  *  *  *  *  *  root /usr/bin/php -q -f /home/connectus/public_html/test/connectus/trabajos_programados.php   
+  *  *  *  *  *  root /usr/bin/php -q -f /home/connectus/public_html/test/connectus/get_sms_recibidos.php   
+  */2  *  *  *  *  root /usr/bin/php -q -f /home/connectus/public_html/test/connectus/refresh_estados_sms.php   
+  *  *  *  *  *  root /usr/bin/php -q -f /home/connectus/public_html/test/connectus/refresh_estados_mail.php   
+  0  4  *  *  *  root /usr/bin/php -q -f /home/connectus/public_html/test/connectus/backups/mtebackup/backup.php   
+ 
+#reporte y backup
+
+  0  1  *  *  *  root /var/www/html/connectus-php/scripts/backup.sh
+  0  0  1  *  *  root /var/www/html/connectus-php/scripts/backupmensual.sh
+  0  0  1  *  *  root /usr/bin/php -q -f /var/www/html/connectus-php/RepoProd/cron_reporte_facturacion.php   
+  0  0  1  *  *  root /usr/bin/php -q -f /var/www/html/connectus-php/RepoProd/cron_reporte_sms.php
+
+
+
+
+
+Subdominios.Dominio de raíz	Directorio raíz	Redireccionamiento	Acciones
+api.connectus.cl	 /public_html/test/connectus/rest 	not redirected	 Eliminar	 Administrar redireccionamiento
+connecta.connectus.cl	 /public_html/admin 	not redirected	 Eliminar	 Administrar redireccionamiento
+sms.connectus.cl	 /public_html/sms 	not redirected	 Eliminar	 Administrar redireccionamiento
+test.connectus.cl	 /public_html/test 	not redirected	 Eliminar	 Administrar redireccionamiento
+ws.connectus.cl	 /public_html/connectus/rest 	not redirected	 Eliminar	 Administrar redireccionamiento
+
